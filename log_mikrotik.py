@@ -112,7 +112,7 @@ class ConsumerThread(threading.Thread):
             if not q.empty():
                 item = q.get()
                 #print("q: "+str(item['pppoe']))
-
+                #print(item)
                 insertLogMikrotik(item['pppoe'],item['ip'],item['online'])
         return
 

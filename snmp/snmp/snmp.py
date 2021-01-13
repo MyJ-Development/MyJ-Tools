@@ -16,7 +16,12 @@ def insertOltData(address,data):
     for i in data:
         rx = ""
         tx = ""
+        try:
+            rx = i['db']
+        except:
+            rx = ""
         dataQuery = dataQuery + "('"+str(address)+"','" +"null"+ "','" +str(i['mac_olt'])+ "','"+ str(i['pon'])+ "','" + str(i['slot']) + "','"+ str(rx) +"','"+str(tx)+ "'),"
+    
     dataQuery = dataQuery[:-1]
     userQuery = "insert into olt (ip_olt,olt_mac_mikrotik,mac_olt,pon,slot,rx,tx) values " + dataQuery +" ON DUPLICATE KEY UPDATE ip_olt = VALUES(ip_olt), mac_olt = VALUES(mac_olt),pon = VALUES(pon),slot = VALUES(slot),rx=VALUES(rx),tx=VALUES(tx);"
     result = 0
@@ -118,20 +123,66 @@ def getOid2KTEPON(address,oid):
     print(time.time() - t, 's')
     return data
 
+def getOid3KTEPON(address,oid):
+    data = []
+    t = time.time()
+    iterator = bulkCmd(SnmpEngine(),
+                    CommunityData('public'),
+                    UdpTransportTarget((address, 161)),
+                    ContextData(),
+                    0,20,
+                    ObjectType(ObjectIdentity(oid)),
+            lookupMib=False, lexicographicMode=False)
+
+    errorIndication, errorStatus, errorIndex, varBinds = next(iterator)
+
+    for (errorIndication, errorStatus, errorIndex, varBinds) in iterator:
+        for varBind in varBinds:
+            try: 
+                line =(' = '.join([x.prettyPrint() for x in varBind]))
+                line = line.split("=")
+                id = line[0].split(".")
+                id = id[-4]
+                db = line[1]
+                if(db!=' 0'):
+                    db = db[:4] + ',' + db[4:]
+                #print("ID:"+str(id)+"MAC : "+str(mac))
+                data.append({"id":str(id),"db":str(db)})
+            except Exception as e:
+                print("IP: "+address+" Excepcion KTEPON Oid 3: "+str(e)+ " LINE: "+str(line))
+
+    if errorIndication:  # SNMP engine errors
+        print("IP: "+address+" Error en snmp:"+str(errorIndication))
+    else:
+        if errorStatus:  # SNMP agent errors
+            print('%s at %s' % (
+                errorStatus.prettyPrint(),
+                varBinds[int(errorIndex)-1] if errorIndex else '?'))
+
+    print("Fin Oid 3: "+address)
+    print(time.time() - t, 's')
+    return data
+
 def getKTEPON(address):
     response = 0
+    #.1.3.6.1.4.1.17409.2.3.4.2.1.13 <- Potencia
     KTEPON_position=getOid1KTEPON(address,"iso.3.6.1.4.1.17409.2.3.4.1.1.2")
     KTEPON_mac=getOid2KTEPON(address,"iso.3.6.1.4.1.17409.2.3.4.1.1.7")
+    KTEPON_db = getOid3KTEPON(address,".1.3.6.1.4.1.17409.2.3.4.2.1.13")
+    
     data = []
     for mac in KTEPON_mac:
         find = 0
         try:
             find = [x for x in KTEPON_position if x['id'] == mac['id']]
             find = find[0]
-            data.append({"mac_olt":str(mac['mac']).upper(),"pon":str(find['pon']),"slot":str(find['slot'])})
+            find_db = [x for x in KTEPON_db if int(x['id']) == int(mac['id'])]
+            find_db = find_db[0]
+            #print("ID MAC: "+str(mac['id'])+" ID FIND: "+str(find['id'])+ " MAC: "+str(mac['mac'])+ " PON: "+str(find['pon'])+" Slot: "+str(find['slot'])+" dBm: "+str(find_db['db']) )
+            data.append({"mac_olt":str(mac['mac']).upper(),"pon":str(find['pon']),"slot":str(find['slot']),"db":str(find_db['db'])})
         except:
-            print("IP: "+address+" Excepcion en find: "+str(find) + " MAC: "+str(mac['mac'])+ " ID: "+str(mac['id']))
-        #print("ID MAC: "+str(mac['id'])+" ID FIND: "+str(find['id'])+ " MAC: "+str(mac['mac'])+ " PON: "+str(find['pon'])+" Slot: "+str(find['slot']) )
+            print("IP: "+address+" Excepcion en find: " + " MAC: "+str(mac['mac'])+ " ID: "+str(mac['id']))
+
     response = insertOltData(address,data)
     if (response):
         print("IP: "+address+" Finalizada")
@@ -219,6 +270,48 @@ def getOid2EPON1(address,oid):
                 errorStatus.prettyPrint(),
                 varBinds[int(errorIndex)-1] if errorIndex else '?'))
     print("Fin Oid 2: "+address)
+    print(time.time() - t, 's')
+    return data
+
+def getOid3EPON1(address,oid):
+    data = []
+    t = time.time()
+    iterator = bulkCmd(SnmpEngine(),
+                    CommunityData('public'),
+                    UdpTransportTarget((address, 161)),
+                    ContextData(),
+                    0,20,
+                    ObjectType(ObjectIdentity(oid)),
+            lookupMib=False, lexicographicMode=False)
+    errorIndication, errorStatus, errorIndex, varBinds = next(iterator)
+    print("Connected")
+    for (errorIndication, errorStatus, errorIndex, varBinds) in iterator:
+        for varBind in varBinds:
+            pon = -1
+            db = -1
+            try:
+                print("Found")
+                line =(' = '.join([x.prettyPrint() for x in varBind])) 
+                line = line.split("=")
+                id = line[0].split(".")
+                pon = line[0].split(".")
+                pon = pon[-2]
+                id = id[-1]
+                db = line[1]
+                print("IP: "+address+" ID: "+id+ " PON: "+pon+ " DB: "+db)
+                #data.append({"id":str(id),"pon":str(pon),"slot":str(slot)})
+            except Exception as e:
+                print("IP: "+address+" Excepcion EPON1 Oid 3: "+str(e)+ " LINE: "+str(line))
+            #print("ID: "+str(id)+" PON: "+str(pon) + " SLOT: "+str(slot))
+
+    if errorIndication:  # SNMP engine errors
+        print(errorIndication)
+    else:
+        if errorStatus:  # SNMP agent errors
+            print('%s at %s' % (
+                errorStatus.prettyPrint(),
+                varBinds[int(errorIndex)-1] if errorIndex else '?'))
+    print("Fin Oid 3: "+address)
     print(time.time() - t, 's')
     return data
 
@@ -311,6 +404,9 @@ def getOid2EPON2(address,oid):
 
 def getEPON1(address):
     response = 0
+    #iso.3.6.1.4.1.34592.1.3.4.1.1.36 Potencia
+    #EPON1_potencia=getOid3EPON1(address,"iso.3.6.1.4.1.34592.1.3.4.1.1.36.1.1")
+    #return
     EPON1_position=getOid2EPON1(address,"1.3.6.1.4.1.34592.1.3.3.12.1.1.3.1")
     EPON1_mac=getOid1EPON1(address,"1.3.6.1.4.1.34592.1.3.3.12.1.1.4.1")
     data = []
@@ -376,7 +472,6 @@ def readEPON2():
         response.append(str(i).replace("\n",""))
     return response
 
-
 def main():
     KTEPON = readKTEPON()
     EPON1 = readEPON1()
@@ -384,7 +479,10 @@ def main():
     p = []
     pcounter = 0
     a = 0
+    getKTEPON("172.16.50.101")
+    return
     for ip in KTEPON:
+        #pass
         p.append(multiprocessing.Process(target=getKTEPON, args=(ip,)))
         p[pcounter].start()
         pcounter = pcounter + 1
@@ -397,6 +495,7 @@ def main():
         
     for ip in EPON2:
         #getEPON1("172.16.50.109")
+        #pass
         p.append(multiprocessing.Process(target=getEPON2, args=(ip,)))
         p[pcounter].start()
         pcounter = pcounter + 1

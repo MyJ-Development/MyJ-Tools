@@ -31,7 +31,6 @@
 170.239.191.66,dvrmirador123
 170.239.191.67,dvrpopeta123
 170.239.191.68,dvrgerman123
-170.239.191.69,jnavarretedvrp168
 170.239.191.71,dvrleona123
 170.239.191.99,agricolapopeta3
 170.239.191.102,vilumavina

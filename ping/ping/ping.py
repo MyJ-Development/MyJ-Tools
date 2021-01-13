@@ -61,35 +61,55 @@ LOGGING_CONFIG = {
         },
     },}
 
-
 bot = telegram.Bot(token='1294153119:AAHMZc8qNx2QhlLK5FSD9rMsp_mpkX-MSOs')
-hostname = []
+
 def main():
     status = []
+    hostname = []
+    hostcheck = []
     dictConfig(LOGGING_CONFIG)
     ip_file = open('ip.txt','r')
     for line in ip_file:
         hostname.append(str(line))
-        
-    for line in hostname:
-        line = line.split(",")
-        ip = line[0]
-        info = line[1]
-        response = -1
-        try: 
-            response = os.system("ping -c 5 " + ip)
-        except:
-            response = -1
+        hostcheck.append({"status":0,"counter":0,"date":""})
 
-        if(response==0):
-            #bot.sendMessage(-498052465,"Servicio "+ip+" online!")
-            logDate = datetime.datetime.today()
-            logDate = datetime.datetime(logDate.year, logDate.month, logDate.day,logDate.hour,logDate.minute)
-            logging.info("Servicio ("+info+") "+"online: "+ip+ " : "+str(logDate))
-        else:
-            bot.sendMessage(-498052465,"Servicio "+ info +" "+ip+" offline!")
-            logDate = datetime.datetime.today()
-            logDate = datetime.datetime(logDate.year, logDate.month, logDate.day,logDate.hour,logDate.minute)
-            logging.error("Error en servicio: "+ip+ " : "+str(logDate))
-    main()
+    first_run = 0
+    while(True):
+        i  = 0
+        for line in hostname:
+            line = line.split(",")
+            ip = line[0]
+            info = line[1]
+            response = -1
+            try: 
+                response = os.system("ping -c 5 " + ip)
+            except:
+                response = -1
+
+            if(response==0):
+                #-423452442
+                #-498052465
+                if(first_run and hostcheck[i]['status'] == 1):
+                    bot.sendMessage(-498052465,"Servicio: "+ info +" "+ip+" Se ha reconectado!")
+                    hostcheck[i]['status'] = 0
+                    hostcheck[i]['counter'] = 0
+
+            if(response != 0 and hostcheck[i]['status']==0):
+                if(first_run):
+                    bot.sendMessage(-498052465,"Servicio: "+ info +" "+ip+" Ha caido!")
+                hostcheck[i]['status'] = 1
+
+            if(hostcheck[i]['status'] == 1):
+                if(hostcheck[i]['counter']==0):
+                    logDate = datetime.datetime.utcnow() +datetime.timedelta(hours=-8)
+                    logDate = datetime.datetime(logDate.year, logDate.month, logDate.day,logDate.hour,logDate.minute)
+                    hostcheck[i]['date'] = logDate
+                hostcheck[i]['counter'] += 1
+                if(hostcheck[i]['counter']>20):
+                    bot.sendMessage(-498052465,"Servicio: "+ info +" "+ip+" Caido desde: "+str(logDate))
+                    hostcheck[i]['counter'] = 1
+            i = i + 1
+        first_run = 1
+            
+
 main()

@@ -2,7 +2,6 @@ import requests
 import json
 import mysql.connector
 
-
 class MySQL_LOCAL:
   def __init__(self):
     self.host = '10.19.11.9'
@@ -39,21 +38,18 @@ def insertOltData(address,data):
     finally:
             return result
 
-url = "https://myjchile.smartolt.com/api/onu/get_onus_signals?olt_id=2"
-
-payload = {}
-headers = {
-  'X-Token': '21a18ba0e9844b7e8000c10f42d159b2'
-}
-
-response = requests.request("GET", url, headers=headers, data = payload)
-response = response.json()
-
-data = []
-for line in response['response']:
-    #print(line['sn']+" "+line['port']+" "+line['onu']+" "+line['signal_1310'])
-    data.append({"mac_olt":line['sn'],"pon":line['port'],"slot":line['onu'],"rx":line['signal_1310']} )
-
-insertOltData("172.16.50.135",data)
+def getZTE():
+    url = "https://myjchile.smartolt.com/api/onu/get_onus_signals?olt_id=2"
+    payload = {}
+    headers = {
+    'X-Token': '21a18ba0e9844b7e8000c10f42d159b2'
+    }
+    response = requests.request("GET", url, headers=headers, data = payload)
+    response = response.json()
+    data = []
+    for line in response['response']:
+        #print(line['sn']+" "+line['port']+" "+line['onu']+" "+line['signal_1310'])
+        data.append({"mac_olt":line['sn'],"pon":line['port'],"slot":line['onu'],"rx":line['signal_1310']} )
+    insertOltData("172.16.50.135",data)
 
 #print(len(response['onus']))
