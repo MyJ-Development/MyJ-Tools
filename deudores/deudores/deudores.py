@@ -16,7 +16,7 @@ class MySQL_ISPCUBE:
     self.database = '105'
 
 def getISPCUBE():
-    userQuery = "select connections.idcustomer,name,connections.address,radiususer,duedebt,intdate,mac from customer join connections on connections.idcustomer=customer.idcustomer where status=1 and radiususer is not null"
+    userQuery = "select connections.idcustomer,name,connections.address,radiususer,duedebt,intdate,mac,customer.lat,customer.lng,connections.lat,connections.lng,contact,phone from customer join connections on connections.idcustomer=customer.idcustomer where status=1 and radiususer is not null"
     result = 0
     MySQLInfo = MySQL_ISPCUBE()
     try:
@@ -35,7 +35,7 @@ def getISPCUBE():
     return result
 
 def getISPCUBEAntiguos():
-    userQuery = "select connections.idcustomer,name,connections.address,radiususer,duedebt,intdate,mac from customer join connections on connections.idcustomer=customer.idcustomer where status=1 and radiususer is not null and intdate < DATE_SUB(now(), INTERVAL 3 month);"
+    userQuery = "select connections.idcustomer,name,connections.address,radiususer,duedebt,intdate,mac,customer.lat,customer.lng,connections.lat,connections.lng,contact,phone from customer join connections on connections.idcustomer=customer.idcustomer where status=1 and radiususer is not null and intdate < DATE_SUB(now(), INTERVAL 3 month);"
     result = 0
     MySQLInfo = MySQL_ISPCUBE()
     try:
@@ -54,7 +54,7 @@ def getISPCUBEAntiguos():
     return result
 
 def getISPCUBENuevos():
-    userQuery = "select connections.idcustomer,name,connections.address,radiususer,duedebt,intdate,mac from customer join connections on connections.idcustomer=customer.idcustomer where status=1 and radiususer is not null and intdate > DATE_SUB(now(), INTERVAL 3 month);"
+    userQuery = "select connections.idcustomer,name,connections.address,radiususer,duedebt,intdate,mac,customer.lat,customer.lng,connections.lat,connections.lng,contact,phone from customer join connections on connections.idcustomer=customer.idcustomer where status=1 and radiususer is not null and intdate > DATE_SUB(now(), INTERVAL 3 month);"
     result = 0
     MySQLInfo = MySQL_ISPCUBE()
     try:
@@ -76,7 +76,7 @@ def insertDeudores(data):
     dataQuery = ''
     for i in data:
         deuda = str(int(i[4]))
-        dataQuery = dataQuery + "('"+i[0]+ "','"+str(i[1]).lower()+"','"+ str(i[2])+"','"+str(i[3])+"',"+deuda+",'"+str(i[5])+"','"+str(i[6])+"'),"
+        dataQuery = dataQuery + "('"+i[0]+ "','"+str(i[1]).lower()+"','"+ str(i[2])+"','"+str(i[3])+"',"+deuda+",'"+str(i[5])+"','"+str(i[6])+"','"+str(i[7])+"','"+str(i[8])+"','"+str(i[9])+"','"+str(i[10])+"','"+str(i[11])+"','"+str(i[12])+"'),"
 
     dataQuery = dataQuery[:-1]
     userQuery = "insert into deudores values " + dataQuery + ";"
