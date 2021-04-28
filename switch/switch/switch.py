@@ -39,48 +39,9 @@ def getStatus(index):
                 line = str(line[1]).replace(" ","")
                 return line
 
-class responseThread(threading.Thread):
-    def __init__(self, group=None, target=None, name=None,
-                 args=(), kwargs=None, verbose=None):
-        super(responseThread,self).__init__()
-        self.target = target
-        self.name = name
-        return
-
-    def run(self):
-        bot.polling()
-
-class watcherThread(threading.Thread):
-    def __init__(self, group=None, target=None, name=None,
-                 args=(), kwargs=None, verbose=None):
-        super(watcherThread,self).__init__()
-        self.target = target
-        self.name = name
-        return
-
-    def run(self):
-        watch()
-
-@bot.message_handler(commands=['fibramaipu'])
-def send_welcome(message):
-    status = ""
-    try:
-        response = int(getStatus(1))
-    except:
-        response = int(0)
-    response = str(response)
-    response = response[:-1] + '.' + response[-1:]
-    status = "Input Fibra 1: "+str(response)+" dBm\n"
-    try:
-        response = int(getStatus(2))
-    except:
-        response = int(0)
-    response = str(response)
-    response = response[:-1] + '.' + response[-1:]
-    status = status + "Input Fibra 2: "+str(response)+" dBm\n"
-    bot.reply_to(message, status)
 	
-def watch():
+
+def main():
     while(True):
         response = 0
         try:
@@ -107,11 +68,4 @@ def watch():
             except:
                 print("Error Telegram")
         time.sleep(3600)
-
-def main():
-    p = responseThread(name='response')
-    c = watcherThread(name='watcher')
-    p.start()
-    c.start()
-
 main()
