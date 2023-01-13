@@ -17,7 +17,7 @@ import multiprocessing
 
 class MySQL_LOCAL:
   def __init__(self):
-    self.host = '10.19.11.9'
+    self.host = '10.19.11.2'
     self.user = 'myjdev'
     self.password = 'myjdev'
     self.database = 'olt_sync'
@@ -98,7 +98,7 @@ def readIPWireless(pppoeList):
 
 def sendDeAuth(address,pppoeList):
     try:
-        router = Api(address, user='kevins', password='123456', port=28728)
+        router = Api(address, user='kevins', password='kevins', port=28728)
         #r = router.talk('/ppp/active/print')
         r = router.talk('/interface/pppoe-server/print')
     except Exception as error:

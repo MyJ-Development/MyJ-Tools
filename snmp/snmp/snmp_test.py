@@ -10,7 +10,7 @@ import json
 
 class MySQL_LOCAL:
   def __init__(self):
-    self.host = '10.19.11.9'
+    self.host = '10.19.11.2'
     self.user = 'myjdev'
     self.password = 'myjdev'
     self.database = 'olt_sync'
@@ -52,10 +52,10 @@ def insertOltData(address,data):
     return result
 
 def getZTE():
-    url = "https://myjchile.smartolt.com/api/onu/get_onus_signals?olt_id=2"
+    url = "https://myjchile.smartolt.com/api/onu/get_onus_signals"
     payload = {}
     headers = {
-    'X-Token': '21a18ba0e9844b7e8000c10f42d159b2'
+    'X-Token': 'bb62f634c0d2464cacaee86e43358d39'
     }
     response = requests.request("GET", url, headers=headers, data = payload)
     response = response.json()
@@ -64,6 +64,8 @@ def getZTE():
         #print(line['sn']+" "+line['port']+" "+line['onu']+" "+line['signal_1310'])
         data.append({"mac_olt":line['sn'],"pon":line['port'],"slot":line['onu'],"db":line['signal_1310']} )
     insertOltData("172.16.50.135",data)
+
+
 
 def getMac(address):
     userQuery = "select mac_olt,pon,slot from olt where ip_olt='"+address+"';"
@@ -724,7 +726,7 @@ def main():
         pcounter = pcounter + 1
         pass
 
-    TIMEOUT = 900
+    TIMEOUT = 1500
     start = time.time()
     logDate = datetime.datetime.today()
     logDate = datetime.datetime(logDate.year, logDate.month, logDate.day,logDate.hour,logDate.minute)

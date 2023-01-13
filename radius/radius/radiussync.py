@@ -23,14 +23,14 @@ class MySQL_ISPCUBE:
 
 class MySQL_LOCAL:
   def __init__(self):
-    self.host = '10.19.11.9'
-    self.user = 'myjdev'
+    self.host = '10.19.11.7'
+    self.user = 'radius'
     self.password = 'myjdev'
     self.database = 'radius'
 
 class MySQL_GRAFANA:
   def __init__(self):
-    self.host = '10.19.11.9'
+    self.host = '10.19.11.2'
     self.user = 'myjdev'
     self.password = 'myjdev'
     self.database = 'olt_sync'
@@ -63,6 +63,9 @@ def insertPPPoeEData(data):
         print(error)
     return result
 
+
+
+
 def insertPPPoeEPlan(data):
     dataQuery = ''
     for i in data:
@@ -85,6 +88,35 @@ def insertPPPoeEPlan(data):
         result = 1
     except mysql.connector.Error as error:
         print("Fallo en Planes  {}".format(error))
+
+    except Exception as error:
+        print(error)
+    return result
+
+def insertPPPoeEBandwith(data):
+    dataQuery = ''
+    for i in data:
+        rx = "null"
+        tx = "null"
+        bandwith = i[1]+'/'+i[2]
+        dataQuery = dataQuery + "('"+str(i[0])+"','Mikrotik-Rate-Limit','=','"+bandwith+"'),"
+    dataQuery = dataQuery[:-1]
+    userQuery = "insert into radreply (username,attribute,op,value) values " + dataQuery + " ON DUPLICATE KEY UPDATE value = VALUES(value);"
+    result = 0
+    MySQLInfo = MySQL_LOCAL()
+    try:
+        connection = mysql.connector.connect(host=MySQLInfo.host,
+                                         database=MySQLInfo.database,
+                                         user=MySQLInfo.user,
+                                         password=MySQLInfo.password)
+        cursor = connection.cursor()
+        cursor.execute(userQuery)
+        connection.commit()
+        print(str(cursor.rowcount)+" Cantidad de Bandwith insertados correctamente : ")
+        cursor.close()
+        result = 1
+    except mysql.connector.Error as error:
+        print("Fallo en Bandwith  {}".format(error))
 
     except Exception as error:
         print(error)
@@ -144,6 +176,28 @@ def deleteNoPPPoeEIP(data):
         print(error)
     return result
 
+def deleteRadReply():
+    userQuery = "delete from radreply where attribute = 'Mikrotik-Rate-Limit';"
+    result = 0
+    MySQLInfo = MySQL_LOCAL()
+    try:
+        connection = mysql.connector.connect(host=MySQLInfo.host,
+                                         database=MySQLInfo.database,
+                                         user=MySQLInfo.user,
+                                         password=MySQLInfo.password)
+        cursor = connection.cursor()
+        cursor.execute(userQuery)
+        connection.commit()
+        print(str(cursor.rowcount)+" Cantidad de RadReply Borrados correctamente ")
+        cursor.close()
+        result = 1
+    except mysql.connector.Error as error:
+        print("Fallo en RadReply  {}".format(error))
+
+    except Exception as error:
+        print(error)
+    return result
+
 def insertPPPoeEDeudor(data):
     dataQuery = ''
     for i in data:
@@ -161,6 +215,58 @@ def insertPPPoeEDeudor(data):
         cursor.execute(userQuery)
         connection.commit()
         print(str(cursor.rowcount)+" Cantidad de Deudores insertados correctamente: ")
+        cursor.close()
+        result = 1
+    except mysql.connector.Error as error:
+        print("Fallo en Deudores  {}".format(error))
+
+    except Exception as error:
+        print(error)
+    return result
+
+def insertCatvDeudor(data):
+    dataQuery = ''
+    for i in data:
+        dataQuery = dataQuery + "('"+str(i[0])+"','PorDesactivar'),"
+    dataQuery = dataQuery[:-1]
+    userQuery = "insert into catvAdmin(pppoe,status) values " + dataQuery +" ON DUPLICATE KEY UPDATE status = 'PorDesactivar',try_counter = '0';"
+    result = 0
+    MySQLInfo = MySQL_GRAFANA()
+    try:
+        connection = mysql.connector.connect(host=MySQLInfo.host,
+                                         database=MySQLInfo.database,
+                                         user=MySQLInfo.user,
+                                         password=MySQLInfo.password)
+        cursor = connection.cursor()
+        cursor.execute(userQuery)
+        connection.commit()
+        print(str(cursor.rowcount)+" Cantidad de Deudores CATV insertados correctamente: ")
+        cursor.close()
+        result = 1
+    except mysql.connector.Error as error:
+        print("Fallo en Deudores  {}".format(error))
+
+    except Exception as error:
+        print(error)
+    return result
+
+def insertCatvNoDeudor(data):
+    dataQuery = ''
+    for i in data:
+        dataQuery = dataQuery + "('"+str(i[0])+"','PorActivar'),"
+    dataQuery = dataQuery[:-1]
+    userQuery = "insert into catvAdmin(pppoe,status) values " + dataQuery +" ON DUPLICATE KEY UPDATE status = 'PorActivar',try_counter = '0';"
+    result = 0
+    MySQLInfo = MySQL_GRAFANA()
+    try:
+        connection = mysql.connector.connect(host=MySQLInfo.host,
+                                         database=MySQLInfo.database,
+                                         user=MySQLInfo.user,
+                                         password=MySQLInfo.password)
+        cursor = connection.cursor()
+        cursor.execute(userQuery)
+        connection.commit()
+        print(str(cursor.rowcount)+" Cantidad de NoDeudores CATV insertados correctamente: ")
         cursor.close()
         result = 1
     except mysql.connector.Error as error:
@@ -197,8 +303,11 @@ def insertPPPoeENoDeudor(data):
         print(error)
     return result
 
-def getISPCUBE():
-    userQuery = "select radiususer,speedup,speeddown,ip,status from customer join connections on customer.idcustomer=connections.idcustomer join plans on connections.idplan=plans.idplan where radiususer is not null;"
+def getISPCUBE(pppoe):
+    if(pppoe):
+        userQuery = "select radiususer from customer join connections on customer.idcustomer=connections.idcustomer join plans on connections.idplan=plans.idplan where radiususer is not null;"
+    else:
+        userQuery = "select radiususer,speedup,speeddown,ip,status from customer join connections on customer.idcustomer=connections.idcustomer join plans on connections.idplan=plans.idplan where radiususer is not null;"
     result = 0
     MySQLInfo = MySQL_ISPCUBE()
     try:
@@ -264,16 +373,13 @@ def deleteDB(table):
         cursor.close()
     except mysql.connector.Error as error:
         logging.error("Fallo en borrar mac_validation en DB Local  {}".format(error))
-
-    finally:
-        if (connection.is_connected()):
-            connection.close()
-            return result
+    
+    return result
 
 def sendDeAuth(address,pppoeList):
     try:
         try:
-            router = Api(address, user='kevins', password='123456', port=28728)
+            router = Api(address, user='kevins', password='kevins', port=28728)
             #r = router.talk('/ppp/active/print')
             r = router.talk('/interface/pppoe-server/print')
         except Exception as error:
@@ -317,9 +423,79 @@ def readIP():
     ipList.close
     return ips
 
-if __name__ == "__main__":
-    data = getISPCUBE()
+def getAllPPP():
+    userQuery = 'select * from radcheck;'
+    result = 0
+    MySQLInfo = MySQL_LOCAL()
+    try:
+        connection = mysql.connector.connect(host=MySQLInfo.host,
+                                         database=MySQLInfo.database,
+                                         user=MySQLInfo.user,
+                                         password=MySQLInfo.password)
+        cursor = connection.cursor()
+        cursor.execute(userQuery)
+        result = cursor.fetchall()
+        cursor.close()
+    except mysql.connector.Error as error:
+        print("Fallo en obtener datos desde Radius  {}".format(error))
+    return result
+
+def deletePPPTable(pppoe_list,tablename):
+    dataQuery = '('
+    for i in pppoe_list:
+        dataQuery = dataQuery + "'" + str(i) + "',"
+    dataQuery = dataQuery[:-1]
+    dataQuery = dataQuery + ");"
+    userQuery = "delete from "+str(tablename)+" where username in " + dataQuery
+    result = 0
+    MySQLInfo = MySQL_LOCAL()
+    try:
+        connection = mysql.connector.connect(host=MySQLInfo.host,
+                                         database=MySQLInfo.database,
+                                         user=MySQLInfo.user,
+                                         password=MySQLInfo.password)
+        cursor = connection.cursor()
+        cursor.execute(userQuery)
+        connection.commit()
+        print(str(cursor.rowcount)+" Cantidad de PPPoE IP Borrados correctamente ")
+        cursor.close()
+        result = 1
+    except mysql.connector.Error as error:
+        print("Fallo en PPPoE IP  {}".format(error))
+
+    except Exception as error:
+        print(error)
+    return result
+
+def syncDeletePPP(pppoe_list):
+    deletePPPTable(pppoe_list,"radreply")
+    deletePPPTable(pppoe_list,"radcheck")
+    deletePPPTable(pppoe_list,"radusergroup")
     
+
+
+if __name__ == "__main__":
+    print("Solicitando datos ISPCUBE")
+    data = getISPCUBE(False)
+    deleteRadReply()
+    #radreply,radcheck,radusergroup
+    current_ppp = getAllPPP()
+    syncPPPoE = getISPCUBE(True)
+    syncList = []
+    print("Datos ISPCUBE obtenidos")
+    for line in (syncPPPoE):
+        syncList.append(str(line[0]))
+    syncDelete = []
+    #print(syncPPPoE)
+    for line in current_ppp:
+        #print(line[1])
+        if(str(line[1]) in syncList):
+            pass
+        else:
+            syncDelete.append(str(line[1]))
+
+    if(syncDelete):
+        syncDeletePPP(syncDelete)
     ip_clients = []
     deudores_clients = []
     no_deudores_clients = []
@@ -335,43 +511,62 @@ if __name__ == "__main__":
             deudores_clients.append(line)
         else:
             no_deudores_clients.append(line)
-
-    response = insertPPPoeEData(data)
-    if (response):
-        print("PPPoE Data Correcto")
-    else:
-        print("PPPoE Data Incorrecto")
-
-    response = insertPPPoeEPlan(data)  
-    if (response):
-        print("PPPoE Plan Correcto")
-    else:
-        print("PPPoE Plan Incorrecto")
-        
-    response = deleteNoPPPoeEIP(ip_clients)  
-    if (response):
-        print("Borrado PPPoE IP Correcto")
-    else:
-        print("Borrado PPPoE IP Incorrecto")   
-
-    response = insertPPPoeEIP(ip_clients)  
-    if (response):
-        print("PPPoE IP Correcto")
-    else:
-        print("PPPoE IP Incorrecto")    
-
-    response = insertPPPoeEDeudor(deudores_clients)  
-    if (response):
-        print("PPPoE Deudor Correcto")
-    else:
-        print("PPPoE Deudor Incorrecto")
-
-    response = insertPPPoeENoDeudor(no_deudores_clients)
-
-    if (response):
-        print("PPPoE NoDeudor Correcto")
-    else:
-        print("PPPoE NoDeudor Incorrecto") 
+    response = 0
+    while(response == 0):
+        response = insertPPPoeEData(data)
+        if (response):
+            print("PPPoE Data Correcto")
+        else:
+            time.sleep(1)
+            print("PPPoE Data Incorrecto")
+    response = 0
+    while(response == 0):
+        response = insertPPPoeEPlan(data)  
+        if (response):
+            print("PPPoE Plan Correcto")
+        else:
+            time.sleep(1)
+            print("PPPoE Plan Incorrecto")
+    response = 0
+    while(response == 0):
+        response = insertPPPoeEBandwith(data)  
+        if (response):
+            print("PPPoE Bandwith Correcto")
+        else:
+            time.sleep(1)
+            print("PPPoE Bandwith Incorrecto")
+    response = 0
+    while(response == 0):
+        response = deleteNoPPPoeEIP(ip_clients)  
+        if (response):
+            print("Borrado PPPoE IP Correcto")
+        else:
+            time.sleep(1)
+            print("Borrado PPPoE IP Incorrecto")
+    response = 0
+    while(response == 0):
+        response = insertPPPoeEIP(ip_clients)  
+        if (response):
+            print("PPPoE IP Correcto")
+        else:
+            time.sleep(1)
+            print("PPPoE IP Incorrecto") 
+    response = 0
+    while(response == 0):
+        response = insertPPPoeEDeudor(deudores_clients)  
+        if (response):
+            print("PPPoE Deudor Correcto")
+        else:
+            time.sleep(1)
+            print("PPPoE Deudor Incorrecto")
+    response = 0
+    while(response == 0):
+        response = insertPPPoeENoDeudor(no_deudores_clients)
+        if (response):
+            print("PPPoE NoDeudor Correcto")
+        else:
+            time.sleep(1)
+            print("PPPoE NoDeudor Incorrecto")
 
     reboot_clients = []
     for client in deudores_actuales:

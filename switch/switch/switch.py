@@ -9,13 +9,9 @@ from pysnmp.proto.rfc1902 import Integer, IpAddress, OctetString
 import telegram
 import telebot
 import threading
+import asyncio
 
-
-bot_watcher = telegram.Bot(token='1294153119:AAHMZc8qNx2QhlLK5FSD9rMsp_mpkX-MSOs')
-bot = telebot.TeleBot("1294153119:AAHMZc8qNx2QhlLK5FSD9rMsp_mpkX-MSOs")
-
-def getStatus(index):
-    ip='172.16.50.201'
+def getStatus(index,ip):
     community='public'
     if(index==1):
         value=(1,3,6,1,4,1,33826,1,1,5,1,2,1)
@@ -39,79 +35,44 @@ def getStatus(index):
                 line = str(line[1]).replace(" ","")
                 return line
 
-class responseThread(threading.Thread):
-    def __init__(self, group=None, target=None, name=None,
-                 args=(), kwargs=None, verbose=None):
-        super(responseThread,self).__init__()
-        self.target = target
-        self.name = name
-        return
-
-    def run(self):
-        bot.polling()
-
-class watcherThread(threading.Thread):
-    def __init__(self, group=None, target=None, name=None,
-                 args=(), kwargs=None, verbose=None):
-        super(watcherThread,self).__init__()
-        self.target = target
-        self.name = name
-        return
-
-    def run(self):
-        watch()
-
-@bot.message_handler(commands=['fibramaipu'])
-def send_welcome(message):
-    status = ""
-    try:
-        response = int(getStatus(1))
-    except:
-        response = int(0)
-    response = str(response)
-    response = response[:-1] + '.' + response[-1:]
-    status = "Input Fibra 1: "+str(response)+" dBm\n"
-    try:
-        response = int(getStatus(2))
-    except:
-        response = int(0)
-    response = str(response)
-    response = response[:-1] + '.' + response[-1:]
-    status = status + "Input Fibra 2: "+str(response)+" dBm\n"
-    bot.reply_to(message, status)
-	
-def watch():
+async def run():
+    
+    ip_list  = {"172.16.50.201","192.168.200.22","192.168.200.23"}
+    bot = telegram.Bot("5753479653:AAFpNG9ip59sgl2UVDPxDRzmNaL9DJTmO_A")
     while(True):
-        response = 0
-        try:
-            response = int(getStatus(1))
-        except:
-            response = int(0)
-        if(response<5):
-            response = str(response)
-            response = response[:-1] + '.' + response[-1:]
-            #print("IP: 172.16.50.201 Index 1: "+ str(response)+" dBm")
+        for ip in ip_list:
+            response = 0
             try:
-                bot_watcher.sendMessage(-498052465,"Problema en Fibra Maipu IP: 172.16.50.201 Fibra 1: "+ str(response)+" dBm")
+                response = int(getStatus(1,ip))
+                print(response)
             except:
-                print("Error Telegram")
-        try:
-            response = int(getStatus(2))
-        except:
-            response = int(0)
-        if(response<5):
-            response = str(response)
-            response = response[:-1] + '.' + response[-1:]
+                response = int(0)
+            if(response<-70):
+                response = str(response)
+                response = response[:-1] + '.' + response[-1:]
+                #print("IP: 172.16.50.201 Index 1: "+ str(response)+" dBm")
+                try:
+                    async with bot:
+                        message = "Problema en Fibra TV IP: "+str(ip)+" Fibra 1: "+ str(response)+" dBm"
+                        await bot.send_message(text=message, chat_id=-1001547382511)
+                except:
+                    print("Error Telegram Fibra 1: "+str(ip)+" : "+str(e))
             try:
-                bot_watcher.sendMessage(-498052465,"Problema en Fibra Fibra Maipu IP: 172.16.50.201 Fibra 2: "+ str(response)+" dBm")
+                response = int(getStatus(2,ip))
             except:
-                print("Error Telegram")
+                response = int(0)
+            if(response<-70):
+                response = str(response)
+                response = response[:-1] + '.' + response[-1:]
+                try:
+                    async with bot:
+                        message = "Problema en Fibra TV IP: "+str(ip)+" Fibra 2: "+ str(response)+" dBm"
+                        await bot.send_message(text=message, chat_id=-1001547382511)
+     
+                except Exception as e:
+                    print("Error Telegram Fibra 2: "+str(ip)+" : "+str(e))
+            time.sleep(5)
         time.sleep(3600)
 
-def main():
-    p = responseThread(name='response')
-    c = watcherThread(name='watcher')
-    p.start()
-    c.start()
-
-main()
+if __name__ == '__main__':
+    asyncio.run(run())

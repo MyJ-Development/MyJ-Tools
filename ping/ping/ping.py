@@ -73,7 +73,6 @@ def main():
         hostname.append(str(line))
         hostcheck.append({"status":0,"counter":0,"date":""})
 
-    first_run = 0
     while(True):
         i  = 0
         for line in hostname:
@@ -89,14 +88,13 @@ def main():
             if(response==0):
                 #-423452442
                 #-498052465
-                if(first_run and hostcheck[i]['status'] == 1):
+                if(hostcheck[i]['status'] == 1):
                     bot.sendMessage(-498052465,"Servicio: "+ info +" "+ip+" Se ha reconectado!")
                     hostcheck[i]['status'] = 0
                     hostcheck[i]['counter'] = 0
 
             if(response != 0 and hostcheck[i]['status']==0):
-                if(first_run):
-                    bot.sendMessage(-498052465,"Servicio: "+ info +" "+ip+" Ha caido!")
+                bot.sendMessage(-498052465,"Servicio: "+ info +" "+ip+" Ha caido!")
                 hostcheck[i]['status'] = 1
 
             if(hostcheck[i]['status'] == 1):
@@ -104,12 +102,10 @@ def main():
                     logDate = datetime.datetime.utcnow() +datetime.timedelta(hours=-8)
                     logDate = datetime.datetime(logDate.year, logDate.month, logDate.day,logDate.hour,logDate.minute)
                     hostcheck[i]['date'] = logDate
-                hostcheck[i]['counter'] += 1
-                if(hostcheck[i]['counter']>20):
-                    bot.sendMessage(-498052465,"Servicio: "+ info +" "+ip+" Caido desde: "+str(logDate))
+                hostcheck[i]['counter'] = 1 + hostcheck[i]['counter']
+                if(hostcheck[i]['counter']>30):
+                    bot.sendMessage(-498052465,"Servicio: "+ info +" "+ip+" Caido desde: "+str(hostcheck[i]['date']))
                     hostcheck[i]['counter'] = 1
             i = i + 1
-        first_run = 1
-            
 
 main()

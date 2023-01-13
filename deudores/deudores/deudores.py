@@ -3,7 +3,7 @@ import datetime
 
 class MySQL_LOCAL:
   def __init__(self):
-    self.host = '10.19.11.9'
+    self.host = '10.19.11.2'
     self.user = 'myjdev'
     self.password = 'myjdev'
     self.database = 'olt_sync'
@@ -75,6 +75,7 @@ def getISPCUBENuevos():
 def insertDeudores(data):
     dataQuery = ''
     for i in data:
+        #print(str(i[2]))
         deuda = str(int(i[4]))
         dataQuery = dataQuery + "('"+i[0]+ "','"+str(i[1]).lower()+"','"+ str(i[2])+"','"+str(i[3])+"',"+deuda+",'"+str(i[5])+"','"+str(i[6])+"','"+str(i[7])+"','"+str(i[8])+"','"+str(i[9])+"','"+str(i[10])+"','"+str(i[11])+"','"+str(i[12])+"'),"
 

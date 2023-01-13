@@ -11,7 +11,7 @@ class MySQL_ISPCUBE:
 
 class MySQL_LOCAL:
   def __init__(self):
-    self.host = '10.19.11.9'
+    self.host = '10.19.11.2'
     self.user = 'myjdev'
     self.password = 'myjdev'
     self.database = 'olt_sync'
@@ -79,13 +79,13 @@ def main():
             olt_data.append({"address":"172.16.50."+address, "mac_olt":mac,"pon":line[2],"slot":line[3],"status":line[4]})
 
     #insertOltData("172.16.50.100",[x for x in olt_data if x['address'] == '172.16.50.100'])
-   # insertOltData("172.16.50.101",[x for x in olt_data if x['address'] == '172.16.50.101'])
-    #insertOltData("172.16.50.103",[x for x in olt_data if x['address'] == '172.16.50.103'])
-    #insertOltData("172.16.50.104",[x for x in olt_data if x['address'] == '172.16.50.104'])
-    #insertOltData("172.16.50.105",[x for x in olt_data if x['address'] == '172.16.50.105'])
-    #insertOltData("172.16.50.106",[x for x in olt_data if x['address'] == '172.16.50.106'])
-    #insertOltData("172.16.50.107",[x for x in olt_data if x['address'] == '172.16.50.107'])
-    #insertOltData("172.16.50.109",[x for x in olt_data if x['address'] == '172.16.50.109'])
+    insertOltData("172.16.50.101",[x for x in olt_data if x['address'] == '172.16.50.101'])
+    insertOltData("172.16.50.103",[x for x in olt_data if x['address'] == '172.16.50.103'])
+    insertOltData("172.16.50.104",[x for x in olt_data if x['address'] == '172.16.50.104'])
+    insertOltData("172.16.50.105",[x for x in olt_data if x['address'] == '172.16.50.105'])
+    insertOltData("172.16.50.106",[x for x in olt_data if x['address'] == '172.16.50.106'])
+    insertOltData("172.16.50.107",[x for x in olt_data if x['address'] == '172.16.50.107'])
+    insertOltData("172.16.50.109",[x for x in olt_data if x['address'] == '172.16.50.109'])
     #insertOltData("172.16.50.110",[x for x in olt_data if x['address'] == '172.16.50.110'])
     #insertOltData("172.16.50.111",[x for x in olt_data if x['address'] == '172.16.50.111'])
     #insertOltData("172.16.50.112",[x for x in olt_data if x['address'] == '172.16.50.112'])
@@ -101,7 +101,7 @@ def main():
     insertOltData("172.16.50.122",[x for x in olt_data if x['address'] == '172.16.50.122'])
     insertOltData("172.16.50.123",[x for x in olt_data if x['address'] == '172.16.50.123'])
     insertOltData("172.16.50.124",[x for x in olt_data if x['address'] == '172.16.50.124'])
-    #insertOltData("172.16.50.125",[x for x in olt_data if x['address'] == '172.16.50.125'])
+    insertOltData("172.16.50.125",[x for x in olt_data if x['address'] == '172.16.50.125'])
     #insertOltData("172.16.50.126",[x for x in olt_data if x['address'] == '172.16.50.126'])
     insertOltData("172.16.50.127",[x for x in olt_data if x['address'] == '172.16.50.127'])
     insertOltData("172.16.50.128",[x for x in olt_data if x['address'] == '172.16.50.128'])
@@ -109,5 +109,6 @@ def main():
     insertOltData("172.16.50.130",[x for x in olt_data if x['address'] == '172.16.50.130'])
     insertOltData("172.16.50.131",[x for x in olt_data if x['address'] == '172.16.50.131'])
     insertOltData("172.16.50.132",[x for x in olt_data if x['address'] == '172.16.50.132'])
+    insertOltData("172.16.50.141",[x for x in olt_data if x['address'] == '172.16.50.141'])
 
 main()

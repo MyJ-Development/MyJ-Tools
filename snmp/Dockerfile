@@ -4,7 +4,7 @@ WORKDIR /code
 
 run apt-get update && apt-get -y install libsnmp-dev
 run pip3 install pysnmp
-run pip3 install mysql.connector
+run pip3 install mysql-connector-python
 run pip3 install easysnmp
 run pip3 install requests
 

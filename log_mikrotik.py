@@ -8,7 +8,7 @@ import time
 
 class MySQL_LOCAL:
   def __init__(self):
-    self.host = '10.19.11.9'
+    self.host = '10.19.11.2'
     self.user = 'myjdev'
     self.password = 'myjdev'
     self.database = 'olt_sync'
@@ -43,7 +43,7 @@ def insertLogMikrotik(data,address,online):
             return
 
 
-localIP     = "10.19.11.9"
+localIP     = "10.19.11.2"
 localPort   = 514
 bufferSize  = 1024
 UDPServerSocket = socket.socket(family=socket.AF_INET, type=socket.SOCK_DGRAM)

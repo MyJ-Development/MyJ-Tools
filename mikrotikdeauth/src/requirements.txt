@@ -1,2 +1,2 @@
 hurry.filesize
-mysql-connector
+mysql-connector-python
