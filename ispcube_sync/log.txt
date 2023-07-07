@@ -1,0 +1,2 @@
+2023-06-06 00:19:58 - INFO - 10711 Cantidad de usuarios borrados correctamente en DB local: 
+2023-06-06 00:19:58 - ERROR - Fallo en obtener datos desde ISPCube  1045 (28000): Access denied for user 'myjdev'@'10.113.113.140' (using password: YES)

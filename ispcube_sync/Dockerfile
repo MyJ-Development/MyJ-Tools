@@ -8,4 +8,4 @@ run pip3 install mysql-connector-python
 
 ENV TZ="America/Santiago"
 
-CMD [ "python3", "grafana_update.py"]
+CMD [ "python3", "ispcube_sync.py"]

@@ -5,7 +5,8 @@ WORKDIR .
 COPY . .
 
 run pip3 install mysql-connector-python
+run pip3 install laiarturs-ros-api
 
 ENV TZ="America/Santiago"
 
-CMD [ "python3", "grafana_update.py"]
+CMD [ "python3", "mikrotik_log_sync.py"]

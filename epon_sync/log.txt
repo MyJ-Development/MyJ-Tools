@@ -1,0 +1,39 @@
+2023-06-06 18:47:41 - INFO - Iniciando proceso de sincronización de OLTs
+2023-06-06 18:47:41 - INFO - Iniciando proceso para la IP 172.16.50.113
+2023-06-06 18:47:41 - INFO - Iniciando proceso para la IP 172.16.50.116
+2023-06-06 18:47:41 - INFO - Iniciando proceso para la IP 172.16.50.111
+2023-06-06 18:47:41 - INFO - Iniciando proceso para la IP 172.16.50.114
+2023-06-06 18:47:41 - INFO - Iniciando proceso para la IP 172.16.50.112
+2023-06-06 18:47:41 - INFO - Iniciando proceso para la IP 172.16.50.120
+2023-06-06 18:47:42 - INFO - Conectado a OLT: 172.16.50.116
+2023-06-06 18:47:42 - INFO - Conectado a OLT: 172.16.50.111
+2023-06-06 18:47:42 - INFO - Conectado a OLT: 172.16.50.114
+2023-06-06 18:47:42 - INFO - Conectado a OLT: 172.16.50.112
+2023-06-06 18:47:42 - INFO - Conectado a OLT: 172.16.50.113
+2023-06-06 18:47:42 - INFO - Conectado a OLT: 172.16.50.120
+2023-06-06 18:48:05 - INFO - Iniciando proceso de sincronización de OLTs
+2023-06-06 18:48:05 - INFO - Iniciando proceso para la IP 172.16.50.113
+2023-06-06 18:48:05 - INFO - Iniciando proceso para la IP 172.16.50.114
+2023-06-06 18:48:05 - INFO - Iniciando proceso para la IP 172.16.50.116
+2023-06-06 18:48:05 - INFO - Iniciando proceso para la IP 172.16.50.120
+2023-06-06 18:48:05 - INFO - Iniciando proceso para la IP 172.16.50.111
+2023-06-06 18:48:05 - INFO - Iniciando proceso para la IP 172.16.50.112
+2023-06-06 18:48:06 - INFO - Conectado a OLT: 172.16.50.120
+2023-06-06 18:48:06 - INFO - Conectado a OLT: 172.16.50.112
+2023-06-06 18:48:07 - INFO - Conectado a OLT: 172.16.50.116
+2023-06-06 18:48:09 - INFO - Conectado a OLT: 172.16.50.111
+2023-06-06 18:48:09 - INFO - Conectado a OLT: 172.16.50.113
+2023-06-06 18:48:15 - INFO - Conectado a OLT: 172.16.50.114
+2023-06-06 18:48:47 - INFO - OLT: 172.16.50.120 - 118 ONUs
+2023-06-06 18:49:10 - INFO - OLT: 172.16.50.116 - 183 ONUs
+2023-06-06 18:49:10 - INFO - OLT: 172.16.50.111 - 176 ONUs
+2023-06-06 18:49:12 - INFO - OLT: 172.16.50.112 - 191 ONUs
+2023-06-06 18:49:14 - INFO - OLT: 172.16.50.113 - 187 ONUs
+2023-06-06 18:49:14 - INFO - Tiempo de ejecución para la IP 172.16.50.113: 68.66723418235779
+2023-06-06 18:49:19 - INFO - OLT: 172.16.50.114 - 183 ONUs
+2023-06-06 18:49:19 - INFO - Tiempo de ejecución para la IP 172.16.50.114: 73.41326308250427
+2023-06-06 18:49:19 - INFO - Tiempo de ejecución para la IP 172.16.50.116: 73.40710115432739
+2023-06-06 18:49:19 - INFO - Tiempo de ejecución para la IP 172.16.50.120: 73.40034461021423
+2023-06-06 18:49:19 - INFO - Tiempo de ejecución para la IP 172.16.50.111: 73.39313268661499
+2023-06-06 18:49:19 - INFO - Tiempo de ejecución para la IP 172.16.50.112: 73.38580894470215
+2023-06-06 18:49:19 - INFO - 2076 Cantidad de pppoe insertados correctamente en DB local: 

@@ -1,0 +1,52 @@
+2023-06-05 21:25:55 - INFO - Connecting to 10.113.113.12
+2023-06-05 21:25:55 - INFO - Data from 10.113.113.12 is ready, count: 8
+2023-06-05 21:25:55 - INFO - Connecting to 10.113.113.24
+2023-06-05 21:25:55 - INFO - Data from 10.113.113.24 is ready, count: 72
+2023-06-05 21:25:55 - INFO - Connecting to 10.113.113.19
+2023-06-05 21:25:55 - INFO - Data from 10.113.113.19 is ready, count: 62
+2023-06-05 21:25:55 - INFO - Connecting to 10.113.113.17
+2023-06-05 21:25:56 - INFO - Data from 10.113.113.17 is ready, count: 20
+2023-06-05 21:25:56 - INFO - Connecting to 10.113.113.15
+2023-06-05 21:25:56 - INFO - Data from 10.113.113.15 is ready, count: 30
+2023-06-05 21:25:56 - INFO - Connecting to 10.113.113.20
+2023-06-05 21:25:56 - INFO - User or password is wrong: 10.113.113.20
+2023-06-05 21:25:56 - ERROR - Error when getting data from 10.113.113.20
+2023-06-05 21:25:56 - INFO - Connecting to 10.113.113.16
+2023-06-05 21:25:56 - INFO - Data from 10.113.113.16 is ready, count: 51
+2023-06-05 21:25:56 - INFO - Connecting to 10.113.113.21
+2023-06-05 21:25:56 - INFO - Data from 10.113.113.21 is ready, count: 21
+2023-06-05 21:25:57 - INFO - 23 Cantidad de pppoe insertados correctamente en DB local: 
+2023-06-05 22:01:32 - INFO - Connecting to 10.113.113.15
+2023-06-05 22:01:32 - INFO - Data from 10.113.113.15 is ready, count: 30
+2023-06-05 22:01:32 - INFO - Connecting to 10.113.113.12
+2023-06-05 22:01:32 - INFO - Data from 10.113.113.12 is ready, count: 7
+2023-06-05 22:01:32 - INFO - Connecting to 10.113.113.16
+2023-06-05 22:01:33 - INFO - Data from 10.113.113.16 is ready, count: 51
+2023-06-05 22:01:33 - INFO - Connecting to 10.113.113.19
+2023-06-05 22:01:33 - INFO - Data from 10.113.113.19 is ready, count: 62
+2023-06-05 22:01:33 - INFO - Connecting to 10.113.113.21
+2023-06-05 22:01:33 - INFO - Data from 10.113.113.21 is ready, count: 21
+2023-06-05 22:01:33 - INFO - Connecting to 10.113.113.20
+2023-06-05 22:01:33 - INFO - Data from 10.113.113.20 is ready, count: 30
+2023-06-05 22:01:33 - INFO - Connecting to 10.113.113.17
+2023-06-05 22:01:33 - INFO - Data from 10.113.113.17 is ready, count: 20
+2023-06-05 22:01:33 - INFO - Connecting to 10.113.113.24
+2023-06-05 22:01:33 - INFO - Data from 10.113.113.24 is ready, count: 72
+2023-06-05 22:01:34 - INFO - 32 Cantidad de pppoe insertados correctamente en DB local: 
+2023-06-08 18:05:50 - INFO - Connecting to 10.113.113.19
+2023-06-08 18:05:50 - INFO - Data from 10.113.113.19 is ready, count: 63
+2023-06-08 18:05:50 - INFO - Connecting to 10.113.113.21
+2023-06-08 18:05:50 - INFO - Data from 10.113.113.21 is ready, count: 21
+2023-06-08 18:05:50 - INFO - Connecting to 10.113.113.20
+2023-06-08 18:05:50 - INFO - Data from 10.113.113.20 is ready, count: 29
+2023-06-08 18:05:50 - INFO - Connecting to 10.113.113.12
+2023-06-08 18:05:50 - INFO - Data from 10.113.113.12 is ready, count: 9
+2023-06-08 18:05:50 - INFO - Connecting to 10.113.113.16
+2023-06-08 18:05:51 - INFO - Data from 10.113.113.16 is ready, count: 48
+2023-06-08 18:05:51 - INFO - Connecting to 10.113.113.15
+2023-06-08 18:05:51 - INFO - Data from 10.113.113.15 is ready, count: 35
+2023-06-08 18:05:51 - INFO - Connecting to 10.113.113.24
+2023-06-08 18:05:51 - INFO - Data from 10.113.113.24 is ready, count: 74
+2023-06-08 18:05:51 - INFO - Connecting to 10.113.113.17
+2023-06-08 18:05:51 - INFO - Data from 10.113.113.17 is ready, count: 20
+2023-06-08 18:05:51 - INFO - 2 Cantidad de pppoe insertados correctamente en DB local: 
