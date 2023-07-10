@@ -4,6 +4,18 @@ from telegram import Bot
 import asyncio
 import telnetlib
 import telegram
+import logging
+
+log_file = "log.txt"
+logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s - %(levelname)s - %(message)s",
+        datefmt="%Y-%m-%d %H:%M:%S",
+        handlers=[
+            logging.StreamHandler(),
+            logging.FileHandler(log_file)
+        ]
+    )
 
 def getStatus(ip):
     user = "cisco"
@@ -36,12 +48,12 @@ async def run():
     ip_list  = {"172.16.100.10"}
     bot = telegram.Bot("5753479653:AAFpNG9ip59sgl2UVDPxDRzmNaL9DJTmO_A")
     while(True):
-        print(f"Obteniendo temperaturas: {dt.now()}")
+        logging.info(f"Obteniendo temperaturas: {dt.now()}")
         for ip in ip_list:
             try:
                 temperatures = getStatus(ip)
             except Exception as e:
-                print(f"Error al obtener las temperaturas: {e}")
+                logging.info(f"Error al obtener las temperaturas: {e}")
             for temperature in temperatures:
                 if temperature[1] > 60 :
                     try:
@@ -49,9 +61,10 @@ async def run():
                             message = f"Alerta de temperatura en Cisco. Interfaz: <{temperature[0]}> Temperatura actual: {temperature[1]}"
                             await bot.send_message(text=message, chat_id=-1001547382511)
                     except Exception as e:
-                        print(f"Error al enviar alerta de Telegram: {e}")
+                        logging.info(f"Error al enviar alerta de Telegram: {e}")
             time.sleep(5)
         time.sleep(1800)
 
 if __name__ == '__main__':
+    logging.info("Iniciando monitoreo de temperaturas...")
     asyncio.run(run())

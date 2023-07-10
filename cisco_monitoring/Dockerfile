@@ -1,4 +1,4 @@
-FROM python:3.8.5
+FROM python:3.11.4
 
 WORKDIR /code
 
@@ -9,4 +9,6 @@ ENV TZ="America/Santiago"
 
 COPY cisco_monitoring/ .
 
-CMD [ "python3", "cisco_monitoring.py"]
+
+# Cmd ls
+CMD [ "python", "cisco_monitoring.py"]
