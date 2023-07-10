@@ -36,6 +36,7 @@ async def run():
     ip_list  = {"172.16.100.10"}
     bot = telegram.Bot("5753479653:AAFpNG9ip59sgl2UVDPxDRzmNaL9DJTmO_A")
     while(True):
+        print(f"Obteniendo temperaturas: {dt.now()}")
         for ip in ip_list:
             try:
                 temperatures = getStatus(ip)
