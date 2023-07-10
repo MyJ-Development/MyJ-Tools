@@ -42,7 +42,7 @@ async def run():
             except Exception as e:
                 print(f"Error al obtener las temperaturas: {e}")
             for temperature in temperatures:
-                if temperature[1] > 65 :
+                if temperature[1] > 60 :
                     try:
                         async with bot:
                             message = f"Alerta de temperatura en Cisco. Interfaz: <{temperature[0]}> Temperatura actual: {temperature[1]}"
