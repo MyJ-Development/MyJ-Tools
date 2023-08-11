@@ -102,7 +102,7 @@ def insertLog(data):
         cursor = connection.cursor()
         cursor.execute(userQuery)
         connection.commit()
-        #logging.info(str(cursor.rowcount)+" Usuarios validados en Log: ")
+        logging.info(str(cursor.rowcount)+" Usuarios validados en Log: ")
         cursor.close()
     except mysql.connector.Error as error:
         logging.error("Fallo en insertar en DB Local  {}".format(error))
