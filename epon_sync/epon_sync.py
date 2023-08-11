@@ -6,7 +6,7 @@ import telnetlib
 import re
 from multiprocessing import Process, Manager
 
-olt_list = {"172.16.50.111","172.16.50.112","172.16.50.113","172.16.50.114","172.16.50.116","172.16.50.120"}
+olt_list = {"172.16.50.111"}
 
 log_file = "log.txt"
 logging.basicConfig(
