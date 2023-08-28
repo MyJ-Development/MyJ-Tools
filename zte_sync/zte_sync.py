@@ -41,7 +41,8 @@ olt_list = [{"id":2,"name":"ZTE Quilicura"},
             {"id":8,"name":"ZTE Melipilla Alcalde 2"},
             {"id":9,"name":"ZTE Maipu"},
             {"id":10,"name":"ZTE Quincanque Alto"},
-            {"id":11,"name":"ZTE Popeta"}]
+            {"id":11,"name":"ZTE Los Guindos - Tantehue"},
+            {"id":12,"name":"ZTE QUILICURA 3 - NEW ZTE"}]
 
 def getZTE(olt_data):
     url = f"https://myjchile.smartolt.com/api/onu/get_onus_signals?olt_id={olt_data['id']}"
