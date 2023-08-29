@@ -11,9 +11,9 @@ class MySQL_LOCAL:
 
 def insertOltData(data):
     query = """
-        INSERT INTO pon_dashboard (olt, board, pon, down)
-        VALUES (%s, %s, %s, %s)
-        ON DUPLICATE KEY UPDATE down = VALUES(down);
+        INSERT INTO pon_dashboard (olt, board, pon, down,total)
+        VALUES (%s, %s, %s, %s, %s)
+        ON DUPLICATE KEY UPDATE down = VALUES(down), total = VALUES(total);
     """
     
     MySQLInfo = MySQL_LOCAL()
@@ -29,7 +29,7 @@ def insertOltData(data):
         cursor = connection.cursor()
         
         # Convertir la lista de diccionarios en una lista de tuplas
-        data_tuples = [(equipo['olt'], equipo['board'], equipo['pon'], equipo['down']) for equipo in data]
+        data_tuples = [(equipo['olt'], equipo['board'], equipo['pon'], equipo['down'],equipo['total']) for equipo in data]
         
         # Ejecutar la inserción con ON DUPLICATE KEY UPDATE
         cursor.executemany(query, data_tuples)
@@ -101,7 +101,7 @@ def getZTE(olt_data):
     for board, pons in equipos_por_board_pon.items():
         for pon, conteo in pons.items():
             total = conteo['con_rx'] + conteo['sin_rx']
-            oltData.append({"olt":olt_data["name"],"board":board,"pon":pon,"down":str(conteo["con_rx"])+"/"+str(total)})
+            oltData.append({"olt":olt_data["name"],"board":board,"pon":pon,"down":str(conteo["con_rx"]),"total":str(total)})
     insertOltData(oltData)
     return len(data)
         
