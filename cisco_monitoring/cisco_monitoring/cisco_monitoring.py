@@ -55,14 +55,14 @@ async def run():
             except Exception as e:
                 logging.info(f"Error al obtener las temperaturas: {e}")
             for temperature in temperatures:
-                if temperature[1] > 65 :
+                if temperature[1] > 80 :
                     try:
                         async with bot:
                             message = f"Alerta de temperatura en Cisco. Interfaz: <{temperature[0]}> Temperatura actual: {temperature[1]}"
                             await bot.send_message(text=message, chat_id=-1001547382511)
                     except Exception as e:
                         logging.info(f"Error al enviar alerta de Telegram: {e}")
-                if "die_FIA3" in temperature[0] and temperature[1] > 50:
+                if "die_FIA3" in temperature[0] and temperature[1] > 70:
                     try:
                         async with bot:
                             message = f"Alerta de temperatura en Cisco. Interfaz: <{temperature[0]}> Temperatura actual: {temperature[1]}"
