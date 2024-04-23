@@ -10,6 +10,18 @@ import telegram
 import telebot
 import threading
 import asyncio
+import logging
+
+log_file = "log.txt"
+logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s - %(levelname)s - %(message)s",
+        datefmt="%Y-%m-%d %H:%M:%S",
+        handlers=[
+            logging.StreamHandler(),
+            logging.FileHandler(log_file)
+        ]
+    )
 
 def getStatus(index,ip):
     community='public'
@@ -21,56 +33,78 @@ def getStatus(index,ip):
     generator = cmdgen.CommandGenerator()
     comm_data = cmdgen.CommunityData('server', community, 1) # 1 means version SNMP v2c
     transport = cmdgen.UdpTransportTarget((ip, 161))
-
-    real_fun = getattr(generator, 'getCmd')
-    res = (errorIndication, errorStatus, errorIndex, varBinds)\
-        = real_fun(comm_data, transport, value)
-
+    res = ''
+    try:
+        real_fun = getattr(generator, 'getCmd')
+        res = (errorIndication, errorStatus, errorIndex, varBinds)\
+            = real_fun(comm_data, transport, value)
+    except Exception as e:
+        logging.error("Excepcion: "+str(e))
+        return -999
+    logging.info(res)
     if not errorIndication is None  or errorStatus is True:
-        print("Error: %s %s %s %s" % res)
+        logging.error("Error: %s %s %s %s" % res)
+        return -999
     else:
-        #print("%s" % varBinds)
+        #logging.info("%s" % varBinds)
             for line in res[3]:
                 line = str(line).split("=")
                 line = str(line[1]).replace(" ","")
                 return line
+    return -999
 
 async def run():
-    
-    ip_list  = {"172.16.50.201","192.168.200.22","192.168.200.23"}
+
+    ip_list  = {"172.16.50.201","192.168.200.22","192.168.200.23","192.168.11.22"}
     bot = telegram.Bot("5753479653:AAFpNG9ip59sgl2UVDPxDRzmNaL9DJTmO_A")
     while(True):
         for ip in ip_list:
             response = 0
             try:
                 response = int(getStatus(1,ip))
-                print(response)
+                logging.info(response)
+                if(response == -999):
+                    response = 0
+                    async with bot:
+                        message = "Problema en SwitchTV IP: "+str(ip)+" No Responde SNMP!"
+                        await bot.send_message(text=message, chat_id=-1001547382511)
             except:
-                response = int(0)
-            if(response<-70):
+                async with bot:
+                        message = "Problema en SwitchTV IP: "+str(ip)+" error no controlado"
+                        await bot.send_message(text=message, chat_id=-1001547382511)
+
+
+            if(response<-80):
                 response = str(response)
                 response = response[:-1] + '.' + response[-1:]
-                #print("IP: 172.16.50.201 Index 1: "+ str(response)+" dBm")
+                #logging.info("IP: 172.16.50.201 Index 1: "+ str(response)+" dBm")
                 try:
                     async with bot:
                         message = "Problema en Fibra TV IP: "+str(ip)+" Fibra 1: "+ str(response)+" dBm"
                         await bot.send_message(text=message, chat_id=-1001547382511)
                 except:
-                    print("Error Telegram Fibra 1: "+str(ip)+" : "+str(e))
+                    logging.error("Error Telegram Fibra 1: "+str(ip)+" : "+str(e))
             try:
                 response = int(getStatus(2,ip))
+                if(response == -999):
+                    response = 0
+                    async with bot:
+                        message = "Problema en SwitchTV IP: "+str(ip)+" No Responde SNMP!"
+                        await bot.send_message(text=message, chat_id=-1001547382511)
             except:
-                response = int(0)
-            if(response<-70):
+                async with bot:
+                        message = "Problema en SwitchTV IP: "+str(ip)+" error no controlado"
+                        await bot.send_message(text=message, chat_id=-1001547382511)
+            if(response<-80):
                 response = str(response)
                 response = response[:-1] + '.' + response[-1:]
                 try:
                     async with bot:
                         message = "Problema en Fibra TV IP: "+str(ip)+" Fibra 2: "+ str(response)+" dBm"
                         await bot.send_message(text=message, chat_id=-1001547382511)
-     
+
                 except Exception as e:
-                    print("Error Telegram Fibra 2: "+str(ip)+" : "+str(e))
+                    logging.error("Error Telegram Fibra 2: "+str(ip)+" : "+str(e))
             time.sleep(5)
         time.sleep(3600)
 

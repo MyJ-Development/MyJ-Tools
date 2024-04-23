@@ -1,0 +1,2354 @@
+2023-06-17 13:42:55 - INFO - cantidad de numeros:536
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:42:55 - ERROR - Error: 'AMIClient' object has no attribute 'is_connected'
+2023-06-17 13:45:58 - INFO - cantidad de numeros:535
+2023-06-17 13:45:58 - INFO - calling: 990935714
+2023-06-17 13:45:58 - INFO - Quedan 534 números por llamar.
+2023-06-17 13:46:08 - INFO - calling: 979332216
+2023-06-17 13:46:08 - INFO - Quedan 533 números por llamar.
+2023-06-17 13:46:18 - INFO - calling: 988883914
+2023-06-17 13:46:18 - INFO - Quedan 532 números por llamar.
+2023-06-17 13:46:28 - INFO - calling: 948434825
+2023-06-17 13:46:28 - INFO - Quedan 531 números por llamar.
+2023-06-17 13:46:38 - INFO - calling: 920111316
+2023-06-17 13:46:38 - INFO - Quedan 530 números por llamar.
+2023-06-17 13:46:48 - INFO - calling: 959101939
+2023-06-17 13:46:48 - INFO - Quedan 529 números por llamar.
+2023-06-17 13:46:58 - INFO - calling: 946856757
+2023-06-17 13:46:58 - INFO - Quedan 528 números por llamar.
+2023-06-17 13:47:08 - INFO - calling: 954253293
+2023-06-17 13:47:08 - INFO - Quedan 527 números por llamar.
+2023-06-17 13:47:18 - INFO - calling: 932726125
+2023-06-17 13:47:18 - INFO - Quedan 526 números por llamar.
+2023-06-17 13:47:28 - INFO - calling: 973845322
+2023-06-17 13:47:28 - INFO - Quedan 525 números por llamar.
+2023-06-17 13:47:38 - INFO - calling: 964345175
+2023-06-17 13:47:38 - INFO - Quedan 524 números por llamar.
+2023-06-17 13:47:48 - INFO - calling: 966357874
+2023-06-17 13:47:48 - INFO - Quedan 523 números por llamar.
+2023-06-17 13:47:58 - INFO - calling: 984886309
+2023-06-17 13:47:58 - INFO - Quedan 522 números por llamar.
+2023-06-17 13:48:08 - INFO - calling: 959964527
+2023-06-17 13:48:08 - INFO - Quedan 521 números por llamar.
+2023-06-17 13:48:18 - INFO - calling: 946586434
+2023-06-17 13:48:18 - INFO - Quedan 520 números por llamar.
+2023-06-17 13:48:28 - INFO - calling: 949051274
+2023-06-17 13:48:28 - INFO - Quedan 519 números por llamar.
+2023-06-17 13:48:38 - INFO - calling: 990857403
+2023-06-17 13:48:38 - INFO - Quedan 518 números por llamar.
+2023-06-17 13:48:48 - INFO - calling: 973583553
+2023-06-17 13:48:48 - INFO - Quedan 517 números por llamar.
+2023-06-17 13:48:58 - INFO - calling: 944095837
+2023-06-17 13:48:58 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-17 13:49:08 - INFO - calling: 944095837
+2023-06-17 13:49:08 - INFO - Quedan 516 números por llamar.
+2023-06-17 13:49:18 - INFO - calling: 954309836
+2023-06-17 13:49:18 - INFO - Quedan 515 números por llamar.
+2023-06-17 13:49:28 - INFO - calling: 950229215
+2023-06-17 13:49:28 - INFO - Quedan 514 números por llamar.
+2023-06-17 13:49:38 - INFO - calling: 946552486
+2023-06-17 13:49:38 - INFO - Quedan 513 números por llamar.
+2023-06-17 13:49:48 - INFO - calling: 978257813
+2023-06-17 13:49:48 - INFO - Quedan 512 números por llamar.
+2023-06-17 13:49:58 - INFO - calling: 944352977
+2023-06-17 13:49:58 - INFO - Quedan 511 números por llamar.
+2023-06-17 13:50:08 - INFO - calling: 963223519
+2023-06-17 13:50:08 - INFO - Quedan 510 números por llamar.
+2023-06-17 13:50:18 - INFO - calling: 982282347
+2023-06-17 13:50:18 - INFO - Quedan 509 números por llamar.
+2023-06-17 13:50:28 - INFO - calling: 958537748
+2023-06-17 13:50:28 - INFO - Quedan 508 números por llamar.
+2023-06-17 13:50:38 - INFO - calling: 949070573
+2023-06-17 13:50:38 - INFO - Quedan 507 números por llamar.
+2023-06-17 13:50:48 - INFO - calling: 954190816
+2023-06-17 13:50:48 - INFO - Quedan 506 números por llamar.
+2023-06-17 13:50:58 - INFO - calling: 963325282
+2023-06-17 13:50:58 - INFO - Quedan 505 números por llamar.
+2023-06-17 13:51:08 - INFO - calling: 994631750
+2023-06-17 13:51:08 - INFO - Quedan 504 números por llamar.
+2023-06-17 13:51:18 - INFO - calling: 940310695
+2023-06-17 13:51:18 - INFO - Quedan 503 números por llamar.
+2023-06-17 13:51:28 - INFO - calling: 994697682
+2023-06-17 13:51:28 - INFO - Quedan 502 números por llamar.
+2023-06-17 13:51:38 - INFO - calling: 933058639
+2023-06-17 13:51:38 - INFO - Quedan 501 números por llamar.
+2023-06-17 13:51:48 - INFO - calling: 968763517
+2023-06-17 13:51:48 - INFO - Quedan 500 números por llamar.
+2023-06-17 13:51:58 - INFO - calling: 967663272
+2023-06-17 13:51:58 - INFO - Quedan 499 números por llamar.
+2023-06-17 13:52:08 - INFO - calling: 935853120
+2023-06-17 13:52:08 - INFO - Quedan 498 números por llamar.
+2023-06-17 13:52:18 - INFO - calling: 952030664
+2023-06-17 13:52:18 - INFO - Quedan 497 números por llamar.
+2023-06-17 13:52:28 - INFO - calling: 937005017
+2023-06-17 13:52:28 - INFO - Quedan 496 números por llamar.
+2023-06-17 13:52:38 - INFO - calling: 985613525
+2023-06-17 13:52:38 - INFO - Quedan 495 números por llamar.
+2023-06-17 13:52:48 - INFO - calling: 931116703
+2023-06-17 13:52:48 - INFO - Quedan 494 números por llamar.
+2023-06-17 13:52:58 - INFO - calling: 936435977
+2023-06-17 13:52:58 - INFO - Quedan 493 números por llamar.
+2023-06-17 13:53:08 - INFO - calling: 937661921
+2023-06-17 13:53:08 - INFO - Quedan 492 números por llamar.
+2023-06-17 13:53:18 - INFO - calling: 953571309
+2023-06-17 13:53:18 - INFO - Quedan 491 números por llamar.
+2023-06-17 13:53:28 - INFO - calling: 992122993
+2023-06-17 13:53:28 - INFO - Quedan 490 números por llamar.
+2023-06-17 13:53:38 - INFO - calling: 961106941
+2023-06-17 13:53:38 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-17 13:53:48 - INFO - calling: 961106941
+2023-06-17 13:53:48 - INFO - Quedan 489 números por llamar.
+2023-06-17 13:53:58 - INFO - calling: 949329040
+2023-06-17 13:53:58 - INFO - Quedan 488 números por llamar.
+2023-06-17 13:54:08 - INFO - calling: 922191767
+2023-06-17 13:54:08 - INFO - Quedan 487 números por llamar.
+2023-06-17 13:54:18 - INFO - calling: 973686997
+2023-06-17 13:54:18 - INFO - Quedan 486 números por llamar.
+2023-06-17 13:54:28 - INFO - calling: 971536330
+2023-06-17 13:54:28 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-17 13:54:38 - INFO - calling: 971536330
+2023-06-17 13:54:38 - INFO - Quedan 485 números por llamar.
+2023-06-17 13:54:48 - INFO - calling: 985118690
+2023-06-17 13:54:48 - INFO - Quedan 484 números por llamar.
+2023-06-17 13:54:58 - INFO - calling: 949068420
+2023-06-17 13:54:58 - INFO - Quedan 483 números por llamar.
+2023-06-17 13:55:08 - INFO - calling: 991539697
+2023-06-17 13:55:08 - INFO - Quedan 482 números por llamar.
+2023-06-17 13:55:18 - INFO - calling: 986303983
+2023-06-17 13:55:18 - INFO - Quedan 481 números por llamar.
+2023-06-17 13:55:28 - INFO - calling: 947161184
+2023-06-17 13:55:28 - INFO - Quedan 480 números por llamar.
+2023-06-17 13:55:38 - INFO - calling: 993958310
+2023-06-17 13:55:38 - INFO - Quedan 479 números por llamar.
+2023-06-17 13:55:48 - INFO - calling: 940317290
+2023-06-17 13:55:48 - INFO - Quedan 478 números por llamar.
+2023-06-17 13:55:58 - INFO - calling: 926213106
+2023-06-17 13:55:58 - INFO - Quedan 477 números por llamar.
+2023-06-17 13:56:08 - INFO - calling: 997787940
+2023-06-17 13:56:08 - INFO - Quedan 476 números por llamar.
+2023-06-17 13:56:18 - INFO - calling: 989917177
+2023-06-17 13:56:18 - INFO - Quedan 475 números por llamar.
+2023-06-17 13:56:28 - INFO - calling: 975539111
+2023-06-17 13:56:28 - INFO - Quedan 474 números por llamar.
+2023-06-17 13:56:38 - INFO - calling: 945727565
+2023-06-17 13:56:38 - INFO - Quedan 473 números por llamar.
+2023-06-17 13:56:48 - INFO - calling: 958025197
+2023-06-17 13:56:48 - INFO - Quedan 472 números por llamar.
+2023-06-17 13:56:58 - INFO - calling: 932312783
+2023-06-17 13:56:58 - INFO - Quedan 471 números por llamar.
+2023-06-17 13:57:08 - INFO - calling: 954539676
+2023-06-17 13:57:08 - INFO - Quedan 470 números por llamar.
+2023-06-17 13:57:18 - INFO - calling: 988383242
+2023-06-17 13:57:18 - INFO - Quedan 469 números por llamar.
+2023-06-17 13:57:28 - INFO - calling: 967138483
+2023-06-17 13:57:28 - INFO - Quedan 468 números por llamar.
+2023-06-17 13:57:38 - INFO - calling: 997141269
+2023-06-17 13:57:38 - INFO - Quedan 467 números por llamar.
+2023-06-17 13:57:48 - INFO - calling: 990881802
+2023-06-17 13:57:48 - INFO - Quedan 466 números por llamar.
+2023-06-17 13:57:58 - INFO - calling: 932335664
+2023-06-17 13:57:58 - INFO - Quedan 465 números por llamar.
+2023-06-17 13:58:08 - INFO - calling: 957324323
+2023-06-17 13:58:08 - INFO - Quedan 464 números por llamar.
+2023-06-17 13:58:18 - INFO - calling: 976427228
+2023-06-17 13:58:18 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-17 13:58:28 - INFO - calling: 976427228
+2023-06-17 13:58:28 - INFO - Quedan 463 números por llamar.
+2023-06-17 13:58:38 - INFO - calling: 922320098
+2023-06-17 13:58:38 - INFO - Quedan 462 números por llamar.
+2023-06-17 13:58:48 - INFO - calling: 964145382
+2023-06-17 13:58:48 - INFO - Quedan 461 números por llamar.
+2023-06-17 13:58:58 - INFO - calling: 983072790
+2023-06-17 13:58:58 - INFO - Quedan 460 números por llamar.
+2023-06-17 13:59:08 - INFO - calling: 938950570
+2023-06-17 13:59:08 - INFO - Quedan 459 números por llamar.
+2023-06-17 13:59:18 - INFO - calling: 965033637
+2023-06-17 13:59:18 - INFO - Quedan 458 números por llamar.
+2023-06-17 13:59:28 - INFO - calling: 988846627
+2023-06-17 13:59:28 - INFO - Quedan 457 números por llamar.
+2023-06-17 13:59:38 - INFO - calling: 945944194
+2023-06-17 13:59:38 - INFO - Quedan 456 números por llamar.
+2023-06-17 13:59:48 - INFO - calling: 985964653
+2023-06-17 13:59:48 - INFO - Quedan 455 números por llamar.
+2023-06-17 13:59:58 - INFO - calling: 963415394
+2023-06-17 13:59:58 - INFO - Quedan 454 números por llamar.
+2023-06-17 14:00:08 - INFO - calling: 922039442
+2023-06-17 14:00:08 - INFO - Quedan 453 números por llamar.
+2023-06-17 14:00:18 - INFO - calling: 920290472
+2023-06-17 14:00:18 - INFO - Quedan 452 números por llamar.
+2023-06-17 14:00:28 - INFO - calling: 988994632
+2023-06-17 14:00:28 - INFO - Quedan 451 números por llamar.
+2023-06-17 14:00:38 - INFO - calling: 954706007
+2023-06-17 14:00:38 - INFO - Quedan 450 números por llamar.
+2023-06-17 14:00:48 - INFO - calling: 949609758
+2023-06-17 14:00:48 - INFO - Quedan 449 números por llamar.
+2023-06-17 14:00:58 - INFO - calling: 965625824
+2023-06-17 14:00:58 - INFO - Quedan 448 números por llamar.
+2023-06-17 14:01:08 - INFO - calling: 971539119
+2023-06-17 14:01:08 - INFO - Quedan 447 números por llamar.
+2023-06-17 14:01:18 - INFO - calling: 934833531
+2023-06-17 14:01:18 - INFO - Quedan 446 números por llamar.
+2023-06-17 14:01:28 - INFO - calling: 976996331
+2023-06-17 14:01:28 - INFO - Quedan 445 números por llamar.
+2023-06-17 14:01:38 - INFO - calling: 948567972
+2023-06-17 14:01:38 - INFO - Quedan 444 números por llamar.
+2023-06-17 14:01:48 - INFO - calling: 941092704
+2023-06-17 14:01:48 - INFO - Quedan 443 números por llamar.
+2023-06-17 14:01:58 - INFO - calling: 961624932
+2023-06-17 14:01:58 - INFO - Quedan 442 números por llamar.
+2023-06-17 14:02:09 - INFO - calling: 984077450
+2023-06-17 14:02:09 - INFO - Quedan 441 números por llamar.
+2023-06-17 14:02:19 - INFO - calling: 937201236
+2023-06-17 14:02:19 - INFO - Quedan 440 números por llamar.
+2023-06-17 14:02:29 - INFO - calling: 922410520
+2023-06-17 14:02:29 - INFO - Quedan 439 números por llamar.
+2023-06-17 14:02:39 - INFO - calling: 949316934
+2023-06-17 14:02:39 - INFO - Quedan 438 números por llamar.
+2023-06-17 14:02:49 - INFO - calling: 987558176
+2023-06-17 14:02:49 - INFO - Quedan 437 números por llamar.
+2023-06-17 14:02:59 - INFO - calling: 963469675
+2023-06-17 14:02:59 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-17 14:03:09 - INFO - calling: 963469675
+2023-06-17 14:03:09 - INFO - Quedan 436 números por llamar.
+2023-06-17 14:03:19 - INFO - calling: 950438607
+2023-06-17 14:03:19 - INFO - Quedan 435 números por llamar.
+2023-06-17 14:03:29 - INFO - calling: 974007599
+2023-06-17 14:03:29 - INFO - Quedan 434 números por llamar.
+2023-06-17 14:03:39 - INFO - calling: 946164618
+2023-06-17 14:03:39 - INFO - Quedan 433 números por llamar.
+2023-06-17 14:03:49 - INFO - calling: 994954108
+2023-06-17 14:03:49 - INFO - Quedan 432 números por llamar.
+2023-06-17 14:03:59 - INFO - calling: 993199134
+2023-06-17 14:03:59 - INFO - Quedan 431 números por llamar.
+2023-06-17 14:04:09 - INFO - calling: 966376367
+2023-06-17 14:04:09 - INFO - Quedan 430 números por llamar.
+2023-06-17 14:04:19 - INFO - calling: 941210066
+2023-06-17 14:04:19 - INFO - Quedan 429 números por llamar.
+2023-06-17 14:04:29 - INFO - calling: 941617744
+2023-06-17 14:04:29 - INFO - Quedan 428 números por llamar.
+2023-06-17 14:04:39 - INFO - calling: 982493228
+2023-06-17 14:04:39 - INFO - Quedan 427 números por llamar.
+2023-06-17 14:04:49 - INFO - calling: 978148400
+2023-06-17 14:04:49 - INFO - Quedan 426 números por llamar.
+2023-06-17 14:04:59 - INFO - calling: 972823711
+2023-06-17 14:04:59 - INFO - Quedan 425 números por llamar.
+2023-06-17 14:05:09 - INFO - calling: 987861159
+2023-06-17 14:05:09 - INFO - Quedan 424 números por llamar.
+2023-06-17 14:05:19 - INFO - calling: 936001789
+2023-06-17 14:05:19 - INFO - Quedan 423 números por llamar.
+2023-06-17 14:05:29 - INFO - calling: 965038007
+2023-06-17 14:05:29 - INFO - Quedan 422 números por llamar.
+2023-06-17 14:05:39 - INFO - calling: 955296123
+2023-06-17 14:05:39 - INFO - Quedan 421 números por llamar.
+2023-06-17 14:05:49 - INFO - calling: 971037178
+2023-06-17 14:05:49 - INFO - Quedan 420 números por llamar.
+2023-06-17 14:05:59 - INFO - calling: 937078136
+2023-06-17 14:05:59 - INFO - Quedan 419 números por llamar.
+2023-06-17 14:06:09 - INFO - calling: 950482166
+2023-06-17 14:06:09 - INFO - Quedan 418 números por llamar.
+2023-06-17 14:06:19 - INFO - calling: 989709461
+2023-06-17 14:06:19 - INFO - Quedan 417 números por llamar.
+2023-06-17 14:06:29 - INFO - calling: 982780400
+2023-06-17 14:06:29 - INFO - Quedan 416 números por llamar.
+2023-06-17 14:06:39 - INFO - calling: 976920990
+2023-06-17 14:06:39 - INFO - Quedan 415 números por llamar.
+2023-06-17 14:06:49 - INFO - calling: 978206938
+2023-06-17 14:06:49 - INFO - Quedan 414 números por llamar.
+2023-06-17 14:06:59 - INFO - calling: 930373630
+2023-06-17 14:06:59 - INFO - Quedan 413 números por llamar.
+2023-06-17 14:07:09 - INFO - calling: 967369521
+2023-06-17 14:07:09 - INFO - Quedan 412 números por llamar.
+2023-06-17 14:07:19 - INFO - calling: 977645599
+2023-06-17 14:07:19 - INFO - Quedan 411 números por llamar.
+2023-06-17 14:07:29 - INFO - calling: 988021453
+2023-06-17 14:07:29 - INFO - Quedan 410 números por llamar.
+2023-06-17 14:07:39 - INFO - calling: 988945486
+2023-06-17 14:07:39 - INFO - Quedan 409 números por llamar.
+2023-06-17 14:07:49 - INFO - calling: 975508903
+2023-06-17 14:07:49 - INFO - Quedan 408 números por llamar.
+2023-06-17 14:07:59 - INFO - calling: 973829121
+2023-06-17 14:07:59 - INFO - Quedan 407 números por llamar.
+2023-06-17 14:08:09 - INFO - calling: 984206164
+2023-06-17 14:08:09 - INFO - Quedan 406 números por llamar.
+2023-06-17 14:08:19 - INFO - calling: 999223387
+2023-06-17 14:08:19 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-17 14:08:29 - INFO - calling: 999223387
+2023-06-17 14:08:29 - INFO - Quedan 405 números por llamar.
+2023-06-17 14:08:39 - INFO - calling: 944185671
+2023-06-17 14:08:39 - INFO - Quedan 404 números por llamar.
+2023-06-17 14:08:49 - INFO - calling: 959712073
+2023-06-17 14:08:49 - INFO - Quedan 403 números por llamar.
+2023-06-17 14:08:59 - INFO - calling: 944075591
+2023-06-17 14:08:59 - INFO - Quedan 402 números por llamar.
+2023-06-17 14:09:09 - INFO - calling: 977094537
+2023-06-17 14:09:09 - INFO - Quedan 401 números por llamar.
+2023-06-17 14:09:19 - INFO - calling: 941046888
+2023-06-17 14:09:19 - INFO - Quedan 400 números por llamar.
+2023-06-17 14:09:29 - INFO - calling: 933246077
+2023-06-17 14:09:29 - INFO - Quedan 399 números por llamar.
+2023-06-17 14:09:39 - INFO - calling: 977069676
+2023-06-17 14:09:39 - INFO - Quedan 398 números por llamar.
+2023-06-17 14:09:49 - INFO - calling: 974403523
+2023-06-17 14:09:49 - INFO - Quedan 397 números por llamar.
+2023-06-17 14:09:59 - INFO - calling: 967003649
+2023-06-17 14:09:59 - INFO - Quedan 396 números por llamar.
+2023-06-17 14:10:09 - INFO - calling: 965853845
+2023-06-17 14:10:09 - INFO - Quedan 395 números por llamar.
+2023-06-17 14:10:19 - INFO - calling: 945761970
+2023-06-17 14:10:19 - INFO - Quedan 394 números por llamar.
+2023-06-17 14:10:29 - INFO - calling: 933515934
+2023-06-17 14:10:29 - INFO - Quedan 393 números por llamar.
+2023-06-17 14:10:39 - INFO - calling: 945820378
+2023-06-17 14:10:39 - INFO - Quedan 392 números por llamar.
+2023-06-17 14:10:49 - INFO - calling: 958144776
+2023-06-17 14:10:49 - INFO - Quedan 391 números por llamar.
+2023-06-17 14:10:59 - INFO - calling: 959881891
+2023-06-17 14:10:59 - INFO - Quedan 390 números por llamar.
+2023-06-17 14:11:09 - INFO - calling: 982573801
+2023-06-17 14:11:09 - INFO - Quedan 389 números por llamar.
+2023-06-17 14:11:19 - INFO - calling: 949604570
+2023-06-17 14:11:19 - INFO - Quedan 388 números por llamar.
+2023-06-17 14:11:29 - INFO - calling: 975591484
+2023-06-17 14:11:29 - INFO - Quedan 387 números por llamar.
+2023-06-17 14:11:39 - INFO - calling: 950664104
+2023-06-17 14:11:39 - INFO - Quedan 386 números por llamar.
+2023-06-17 14:11:49 - INFO - calling: 935421876
+2023-06-17 14:11:49 - INFO - Quedan 385 números por llamar.
+2023-06-17 14:11:59 - INFO - calling: 995733743
+2023-06-17 14:11:59 - INFO - Quedan 384 números por llamar.
+2023-06-17 14:12:09 - INFO - calling: 920867150
+2023-06-17 14:12:09 - INFO - Quedan 383 números por llamar.
+2023-06-17 14:12:19 - INFO - calling: 948737698
+2023-06-17 14:12:19 - INFO - Quedan 382 números por llamar.
+2023-06-17 14:12:29 - INFO - calling: 995185074
+2023-06-17 14:12:29 - INFO - Quedan 381 números por llamar.
+2023-06-17 14:12:39 - INFO - calling: 967513551
+2023-06-17 14:12:39 - INFO - Quedan 380 números por llamar.
+2023-06-17 14:12:49 - INFO - calling: 966343737
+2023-06-17 14:12:49 - ERROR - Error: [Errno 9] Bad file descriptor
+2023-06-17 14:12:59 - INFO - calling: 966343737
+2023-06-17 14:12:59 - INFO - Quedan 379 números por llamar.
+2023-06-17 14:13:09 - INFO - calling: 933516153
+2023-06-17 14:13:09 - INFO - Quedan 378 números por llamar.
+2023-06-17 14:13:19 - INFO - calling: 964475161
+2023-06-17 14:13:19 - INFO - Quedan 377 números por llamar.
+2023-06-17 14:13:29 - INFO - calling: 992469094
+2023-06-17 14:13:29 - INFO - Quedan 376 números por llamar.
+2023-06-17 14:13:39 - INFO - calling: 997948729
+2023-06-17 14:13:39 - INFO - Quedan 375 números por llamar.
+2023-06-17 14:13:49 - INFO - calling: 945849654
+2023-06-17 14:13:49 - INFO - Quedan 374 números por llamar.
+2023-06-17 14:13:59 - INFO - calling: 935859666
+2023-06-17 14:13:59 - INFO - Quedan 373 números por llamar.
+2023-06-17 14:14:09 - INFO - calling: 997879103
+2023-06-17 14:14:09 - INFO - Quedan 372 números por llamar.
+2023-06-17 14:14:19 - INFO - calling: 931797905
+2023-06-17 14:14:19 - INFO - Quedan 371 números por llamar.
+2023-06-17 14:14:29 - INFO - calling: 995334482
+2023-06-17 14:14:29 - INFO - Quedan 370 números por llamar.
+2023-06-17 14:14:39 - INFO - calling: 920700258
+2023-06-17 14:14:39 - INFO - Quedan 369 números por llamar.
+2023-06-17 14:14:49 - INFO - calling: 984162685
+2023-06-17 14:14:49 - INFO - Quedan 368 números por llamar.
+2023-06-17 14:14:59 - INFO - calling: 989364495
+2023-06-17 14:14:59 - INFO - Quedan 367 números por llamar.
+2023-06-17 14:15:09 - INFO - calling: 974927979
+2023-06-17 14:15:09 - INFO - Quedan 366 números por llamar.
+2023-06-17 14:15:19 - INFO - calling: 952472238
+2023-06-17 14:15:19 - INFO - Quedan 365 números por llamar.
+2023-06-17 14:15:29 - INFO - calling: 932708281
+2023-06-17 14:15:29 - INFO - Quedan 364 números por llamar.
+2023-06-17 14:15:39 - INFO - calling: 964989414
+2023-06-17 14:15:39 - INFO - Quedan 363 números por llamar.
+2023-06-17 14:15:49 - INFO - calling: 982363006
+2023-06-17 14:15:49 - INFO - Quedan 362 números por llamar.
+2023-06-17 14:15:59 - INFO - calling: 994136331
+2023-06-17 14:15:59 - INFO - Quedan 361 números por llamar.
+2023-06-17 14:16:09 - INFO - calling: 920039487
+2023-06-17 14:16:09 - INFO - Quedan 360 números por llamar.
+2023-06-17 14:16:19 - INFO - calling: 955369375
+2023-06-17 14:16:19 - INFO - Quedan 359 números por llamar.
+2023-06-17 14:16:29 - INFO - calling: 935813620
+2023-06-17 14:16:29 - INFO - Quedan 358 números por llamar.
+2023-06-17 14:16:39 - INFO - calling: 971025522
+2023-06-17 14:16:39 - INFO - Quedan 357 números por llamar.
+2023-06-17 14:16:49 - INFO - calling: 932999312
+2023-06-17 14:16:49 - INFO - Quedan 356 números por llamar.
+2023-06-17 14:16:59 - INFO - calling: 971312017
+2023-06-17 14:16:59 - INFO - Quedan 355 números por llamar.
+2023-06-17 14:17:09 - INFO - calling: 991515103
+2023-06-17 14:17:09 - INFO - Quedan 354 números por llamar.
+2023-06-17 14:17:19 - INFO - calling: 948152015
+2023-06-17 14:17:19 - INFO - Quedan 353 números por llamar.
+2023-06-17 14:17:29 - INFO - calling: 954410188
+2023-06-17 14:17:29 - INFO - Quedan 352 números por llamar.
+2023-06-17 14:17:39 - INFO - calling: 941343694
+2023-06-17 14:17:39 - INFO - Quedan 351 números por llamar.
+2023-06-17 14:17:49 - INFO - calling: 968764455
+2023-06-17 14:17:49 - INFO - Quedan 350 números por llamar.
+2023-06-17 14:17:59 - INFO - calling: 946302771
+2023-06-17 14:17:59 - INFO - Quedan 349 números por llamar.
+2023-06-17 14:18:09 - INFO - calling: 959113236
+2023-06-17 14:18:09 - INFO - Quedan 348 números por llamar.
+2023-06-17 14:18:19 - INFO - calling: 954389484
+2023-06-17 14:18:19 - INFO - Quedan 347 números por llamar.
+2023-06-17 14:18:29 - INFO - calling: 957437180
+2023-06-17 14:18:29 - INFO - Quedan 346 números por llamar.
+2023-06-17 14:18:39 - INFO - calling: 965373439
+2023-06-17 14:18:39 - INFO - Quedan 345 números por llamar.
+2023-06-17 14:18:49 - INFO - calling: 940994454
+2023-06-17 14:18:49 - INFO - Quedan 344 números por llamar.
+2023-06-17 14:18:59 - INFO - calling: 998220958
+2023-06-17 14:18:59 - INFO - Quedan 343 números por llamar.
+2023-06-17 14:19:09 - INFO - calling: 936845000
+2023-06-17 14:19:09 - INFO - Quedan 342 números por llamar.
+2023-06-17 14:19:19 - INFO - calling: 966506462
+2023-06-17 14:19:19 - INFO - Quedan 341 números por llamar.
+2023-06-17 14:19:29 - INFO - calling: 941756718
+2023-06-17 14:19:29 - INFO - Quedan 340 números por llamar.
+2023-06-17 14:19:39 - INFO - calling: 936514390
+2023-06-17 14:19:39 - INFO - Quedan 339 números por llamar.
+2023-06-17 14:19:49 - INFO - calling: 978465646
+2023-06-17 14:19:49 - INFO - Quedan 338 números por llamar.
+2023-06-17 14:19:59 - INFO - calling: 937407746
+2023-06-17 14:19:59 - INFO - Quedan 337 números por llamar.
+2023-06-17 14:20:09 - INFO - calling: 949245285
+2023-06-17 14:20:09 - INFO - Quedan 336 números por llamar.
+2023-06-17 14:20:19 - INFO - calling: 994261041
+2023-06-17 14:20:19 - INFO - Quedan 335 números por llamar.
+2023-06-17 14:20:30 - INFO - calling: 958345001
+2023-06-17 14:20:30 - INFO - Quedan 334 números por llamar.
+2023-06-17 14:20:40 - INFO - calling: 984052108
+2023-06-17 14:20:40 - INFO - Quedan 333 números por llamar.
+2023-06-17 14:20:50 - INFO - calling: 957065694
+2023-06-17 14:20:50 - INFO - Quedan 332 números por llamar.
+2023-06-17 14:21:00 - INFO - calling: 990804218
+2023-06-17 14:21:00 - INFO - Quedan 331 números por llamar.
+2023-06-17 14:21:10 - INFO - calling: 991329019
+2023-06-17 14:21:10 - INFO - Quedan 330 números por llamar.
+2023-06-17 14:21:20 - INFO - calling: 973698895
+2023-06-17 14:21:20 - INFO - Quedan 329 números por llamar.
+2023-06-17 14:21:30 - INFO - calling: 972355440
+2023-06-17 14:21:30 - INFO - Quedan 328 números por llamar.
+2023-06-17 14:21:40 - INFO - calling: 977730989
+2023-06-17 14:21:40 - INFO - Quedan 327 números por llamar.
+2023-06-17 14:21:50 - INFO - calling: 946613733
+2023-06-17 14:21:50 - INFO - Quedan 326 números por llamar.
+2023-06-17 14:22:00 - INFO - calling: 933879132
+2023-06-17 14:22:00 - INFO - Quedan 325 números por llamar.
+2023-06-17 14:22:10 - INFO - calling: 995152902
+2023-06-17 14:22:10 - INFO - Quedan 324 números por llamar.
+2023-06-17 14:22:20 - INFO - calling: 973037964
+2023-06-17 14:22:20 - INFO - Quedan 323 números por llamar.
+2023-06-17 14:22:30 - INFO - calling: 996482093
+2023-06-17 14:22:30 - INFO - Quedan 322 números por llamar.
+2023-06-17 14:22:40 - INFO - calling: 943494231
+2023-06-17 14:22:40 - INFO - Quedan 321 números por llamar.
+2023-06-17 14:22:50 - INFO - calling: 985563969
+2023-06-17 14:22:50 - INFO - Quedan 320 números por llamar.
+2023-06-17 14:23:00 - INFO - calling: 974722943
+2023-06-17 14:23:00 - INFO - Quedan 319 números por llamar.
+2023-06-17 14:23:10 - INFO - calling: 979366035
+2023-06-17 14:23:10 - INFO - Quedan 318 números por llamar.
+2023-06-17 14:23:20 - INFO - calling: 978035336
+2023-06-17 14:23:20 - INFO - Quedan 317 números por llamar.
+2023-06-17 14:23:30 - INFO - calling: 937684752
+2023-06-17 14:23:30 - INFO - Quedan 316 números por llamar.
+2023-06-17 14:23:40 - INFO - calling: 983720286
+2023-06-17 14:23:40 - INFO - Quedan 315 números por llamar.
+2023-06-17 14:23:50 - INFO - calling: 993951991
+2023-06-17 14:23:50 - INFO - Quedan 314 números por llamar.
+2023-06-17 14:24:00 - INFO - calling: 989833793
+2023-06-17 14:24:00 - INFO - Quedan 313 números por llamar.
+2023-06-17 14:24:10 - INFO - calling: 989068293
+2023-06-17 14:24:10 - INFO - Quedan 312 números por llamar.
+2023-06-17 14:24:20 - INFO - calling: 958538706
+2023-06-17 14:24:20 - INFO - Quedan 311 números por llamar.
+2023-06-17 14:24:30 - INFO - calling: 988062041
+2023-06-17 14:24:30 - INFO - Quedan 310 números por llamar.
+2023-06-17 14:24:40 - INFO - calling: 986374186
+2023-06-17 14:24:40 - INFO - Quedan 309 números por llamar.
+2023-06-17 14:24:50 - INFO - calling: 945560438
+2023-06-17 14:24:50 - INFO - Quedan 308 números por llamar.
+2023-06-17 14:25:00 - INFO - calling: 982177216
+2023-06-17 14:25:00 - INFO - Quedan 307 números por llamar.
+2023-06-17 14:25:10 - INFO - calling: 931291647
+2023-06-17 14:25:10 - INFO - Quedan 306 números por llamar.
+2023-06-17 14:25:20 - INFO - calling: 995806510
+2023-06-17 14:25:20 - INFO - Quedan 305 números por llamar.
+2023-06-17 14:25:30 - INFO - calling: 997708893
+2023-06-17 14:25:30 - INFO - Quedan 304 números por llamar.
+2023-06-17 14:25:40 - INFO - calling: 966230305
+2023-06-17 14:25:40 - INFO - Quedan 303 números por llamar.
+2023-06-17 14:25:50 - INFO - calling: 954715727
+2023-06-17 14:25:50 - INFO - Quedan 302 números por llamar.
+2023-06-17 14:26:00 - INFO - calling: 974284822
+2023-06-17 14:26:00 - INFO - Quedan 301 números por llamar.
+2023-06-17 14:26:10 - INFO - calling: 935284155
+2023-06-17 14:26:10 - INFO - Quedan 300 números por llamar.
+2023-06-17 14:26:20 - INFO - calling: 945032677
+2023-06-17 14:26:20 - INFO - Quedan 299 números por llamar.
+2023-06-17 14:26:30 - INFO - calling: 962443813
+2023-06-17 14:26:30 - INFO - Quedan 298 números por llamar.
+2023-06-17 14:26:40 - INFO - calling: 976044421
+2023-06-17 14:26:40 - INFO - Quedan 297 números por llamar.
+2023-06-17 14:26:50 - INFO - calling: 955274199
+2023-06-17 14:26:50 - INFO - Quedan 296 números por llamar.
+2023-06-17 14:27:00 - INFO - calling: 966292341
+2023-06-17 14:27:00 - INFO - Quedan 295 números por llamar.
+2023-06-17 14:27:10 - INFO - calling: 936524669
+2023-06-17 14:27:10 - INFO - Quedan 294 números por llamar.
+2023-06-17 14:27:20 - INFO - calling: 933336403
+2023-06-17 14:27:20 - INFO - Quedan 293 números por llamar.
+2023-06-17 14:27:30 - INFO - calling: 935338762
+2023-06-17 14:27:30 - INFO - Quedan 292 números por llamar.
+2023-06-17 14:27:40 - INFO - calling: 979344846
+2023-06-17 14:27:40 - INFO - Quedan 291 números por llamar.
+2023-06-17 14:27:50 - INFO - calling: 934876821
+2023-06-17 14:27:50 - INFO - Quedan 290 números por llamar.
+2023-06-17 14:28:00 - INFO - calling: 979469158
+2023-06-17 14:28:00 - INFO - Quedan 289 números por llamar.
+2023-06-17 14:28:10 - INFO - calling: 994252712
+2023-06-17 14:28:10 - INFO - Quedan 288 números por llamar.
+2023-06-17 14:28:20 - INFO - calling: 964215630
+2023-06-17 14:28:20 - INFO - Quedan 287 números por llamar.
+2023-06-17 14:28:30 - INFO - calling: 998705644
+2023-06-17 14:28:30 - INFO - Quedan 286 números por llamar.
+2023-06-17 14:28:40 - INFO - calling: 972641533
+2023-06-17 14:28:40 - INFO - Quedan 285 números por llamar.
+2023-06-17 14:28:50 - INFO - calling: 949019334
+2023-06-17 14:28:50 - INFO - Quedan 284 números por llamar.
+2023-06-17 14:29:00 - INFO - calling: 987380749
+2023-06-17 14:29:00 - INFO - Quedan 283 números por llamar.
+2023-06-17 14:29:10 - INFO - calling: 953630270
+2023-06-17 14:29:10 - INFO - Quedan 282 números por llamar.
+2023-06-17 14:29:20 - INFO - calling: 973213463
+2023-06-17 14:29:20 - INFO - Quedan 281 números por llamar.
+2023-06-17 14:29:30 - INFO - calling: 971723743
+2023-06-17 14:29:30 - INFO - Quedan 280 números por llamar.
+2023-06-17 14:29:40 - INFO - calling: 922440725
+2023-06-17 14:29:40 - INFO - Quedan 279 números por llamar.
+2023-06-17 14:29:50 - INFO - calling: 963276061
+2023-06-17 14:29:50 - INFO - Quedan 278 números por llamar.
+2023-06-17 14:30:00 - INFO - calling: 954172461
+2023-06-17 14:30:00 - INFO - Quedan 277 números por llamar.
+2023-06-17 14:30:10 - INFO - calling: 935715442
+2023-06-17 14:30:10 - INFO - Quedan 276 números por llamar.
+2023-06-17 14:30:20 - INFO - calling: 982487742
+2023-06-17 14:30:20 - INFO - Quedan 275 números por llamar.
+2023-06-17 14:30:30 - INFO - calling: 920867559
+2023-06-17 14:30:30 - INFO - Quedan 274 números por llamar.
+2023-06-17 14:30:40 - INFO - calling: 950685208
+2023-06-17 14:30:40 - INFO - Quedan 273 números por llamar.
+2023-06-17 14:30:50 - INFO - calling: 987521672
+2023-06-17 14:30:50 - INFO - Quedan 272 números por llamar.
+2023-06-17 14:31:00 - INFO - calling: 954924920
+2023-06-17 14:31:00 - INFO - Quedan 271 números por llamar.
+2023-06-17 14:31:10 - INFO - calling: 968156845
+2023-06-17 14:31:10 - INFO - Quedan 270 números por llamar.
+2023-06-17 14:31:20 - INFO - calling: 979564051
+2023-06-17 14:31:20 - INFO - Quedan 269 números por llamar.
+2023-06-17 14:31:30 - INFO - calling: 950949695
+2023-06-17 14:31:30 - INFO - Quedan 268 números por llamar.
+2023-06-17 14:31:40 - INFO - calling: 971483685
+2023-06-17 14:31:40 - INFO - Quedan 267 números por llamar.
+2023-06-17 14:31:50 - INFO - calling: 975572957
+2023-06-17 14:31:50 - INFO - Quedan 266 números por llamar.
+2023-06-17 14:32:00 - INFO - calling: 937878928
+2023-06-17 14:32:00 - INFO - Quedan 265 números por llamar.
+2023-06-17 14:32:10 - INFO - calling: 938838244
+2023-06-17 14:32:10 - INFO - Quedan 264 números por llamar.
+2023-06-17 14:32:20 - INFO - calling: 946826630
+2023-06-17 14:32:20 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-17 14:32:30 - INFO - calling: 946826630
+2023-06-17 14:32:30 - INFO - Quedan 263 números por llamar.
+2023-06-17 14:32:40 - INFO - calling: 982612291
+2023-06-17 14:32:40 - INFO - Quedan 262 números por llamar.
+2023-06-17 14:32:50 - INFO - calling: 998308189
+2023-06-17 14:32:50 - INFO - Quedan 261 números por llamar.
+2023-06-17 14:33:00 - INFO - calling: 954021549
+2023-06-17 14:33:00 - INFO - Quedan 260 números por llamar.
+2023-06-17 14:33:10 - INFO - calling: 986206616
+2023-06-17 14:33:10 - INFO - Quedan 259 números por llamar.
+2023-06-17 14:33:20 - INFO - calling: 939064731
+2023-06-17 14:33:20 - INFO - Quedan 258 números por llamar.
+2023-06-17 14:33:30 - INFO - calling: 934909713
+2023-06-17 14:33:30 - INFO - Quedan 257 números por llamar.
+2023-06-17 14:33:40 - INFO - calling: 954149330
+2023-06-17 14:33:40 - INFO - Quedan 256 números por llamar.
+2023-06-17 14:33:50 - INFO - calling: 979094594
+2023-06-17 14:33:50 - INFO - Quedan 255 números por llamar.
+2023-06-17 14:34:00 - INFO - calling: 990544144
+2023-06-17 14:34:00 - INFO - Quedan 254 números por llamar.
+2023-06-17 14:34:10 - INFO - calling: 940168485
+2023-06-17 14:34:10 - INFO - Quedan 253 números por llamar.
+2023-06-17 14:34:20 - INFO - calling: 956037457
+2023-06-17 14:34:20 - INFO - Quedan 252 números por llamar.
+2023-06-17 14:34:30 - INFO - calling: 967026819
+2023-06-17 14:34:30 - INFO - Quedan 251 números por llamar.
+2023-06-17 14:34:40 - INFO - calling: 961757609
+2023-06-17 14:34:40 - INFO - Quedan 250 números por llamar.
+2023-06-17 14:34:50 - INFO - calling: 964420554
+2023-06-17 14:34:50 - INFO - Quedan 249 números por llamar.
+2023-06-17 14:35:00 - INFO - calling: 958302337
+2023-06-17 14:35:00 - INFO - Quedan 248 números por llamar.
+2023-06-17 14:35:10 - INFO - calling: 976513568
+2023-06-17 14:35:10 - INFO - Quedan 247 números por llamar.
+2023-06-17 14:35:20 - INFO - calling: 955368407
+2023-06-17 14:35:20 - INFO - Quedan 246 números por llamar.
+2023-06-17 14:35:30 - INFO - calling: 930707018
+2023-06-17 14:35:30 - INFO - Quedan 245 números por llamar.
+2023-06-17 14:35:40 - INFO - calling: 923721019
+2023-06-17 14:35:40 - INFO - Quedan 244 números por llamar.
+2023-06-17 14:35:50 - INFO - calling: 931286556
+2023-06-17 14:35:50 - INFO - Quedan 243 números por llamar.
+2023-06-17 14:36:00 - INFO - calling: 933200197
+2023-06-17 14:36:00 - INFO - Quedan 242 números por llamar.
+2023-06-17 14:36:10 - INFO - calling: 935236323
+2023-06-17 14:36:10 - INFO - Quedan 241 números por llamar.
+2023-06-17 14:36:20 - INFO - calling: 944141154
+2023-06-17 14:36:20 - INFO - Quedan 240 números por llamar.
+2023-06-17 14:36:30 - INFO - calling: 922113242
+2023-06-17 14:36:30 - INFO - Quedan 239 números por llamar.
+2023-06-17 14:36:40 - INFO - calling: 958851251
+2023-06-17 14:36:40 - INFO - Quedan 238 números por llamar.
+2023-06-17 14:36:50 - INFO - calling: 937731427
+2023-06-17 14:36:50 - INFO - Quedan 237 números por llamar.
+2023-06-17 14:37:00 - INFO - calling: 979846749
+2023-06-17 14:37:00 - INFO - Quedan 236 números por llamar.
+2023-06-17 14:37:10 - INFO - calling: 965956255
+2023-06-17 14:37:10 - INFO - Quedan 235 números por llamar.
+2023-06-17 14:37:20 - INFO - calling: 990539826
+2023-06-17 14:37:20 - INFO - Quedan 234 números por llamar.
+2023-06-17 14:37:30 - INFO - calling: 958769865
+2023-06-17 14:37:30 - INFO - Quedan 233 números por llamar.
+2023-06-17 14:37:40 - INFO - calling: 920245180
+2023-06-17 14:37:40 - INFO - Quedan 232 números por llamar.
+2023-06-17 14:37:50 - INFO - calling: 942425708
+2023-06-17 14:37:50 - INFO - Quedan 231 números por llamar.
+2023-06-17 14:38:00 - INFO - calling: 972558184
+2023-06-17 14:38:00 - INFO - Quedan 230 números por llamar.
+2023-06-17 14:38:10 - INFO - calling: 952143732
+2023-06-17 14:38:10 - INFO - Quedan 229 números por llamar.
+2023-06-17 14:38:20 - INFO - calling: 957029389
+2023-06-17 14:38:20 - INFO - Quedan 228 números por llamar.
+2023-06-17 14:38:30 - INFO - calling: 986576259
+2023-06-17 14:38:30 - INFO - Quedan 227 números por llamar.
+2023-06-17 14:38:40 - INFO - calling: 936520529
+2023-06-17 14:38:40 - INFO - Quedan 226 números por llamar.
+2023-06-17 14:38:50 - INFO - calling: 993435255
+2023-06-17 14:38:50 - INFO - Quedan 225 números por llamar.
+2023-06-17 14:39:00 - INFO - calling: 948887071
+2023-06-17 14:39:00 - INFO - Quedan 224 números por llamar.
+2023-06-17 14:39:11 - INFO - calling: 977321936
+2023-06-17 14:39:11 - INFO - Quedan 223 números por llamar.
+2023-06-17 14:39:21 - INFO - calling: 935618737
+2023-06-17 14:39:21 - INFO - Quedan 222 números por llamar.
+2023-06-17 14:39:31 - INFO - calling: 937569439
+2023-06-17 14:39:31 - INFO - Quedan 221 números por llamar.
+2023-06-17 14:39:41 - INFO - calling: 978622275
+2023-06-17 14:39:41 - INFO - Quedan 220 números por llamar.
+2023-06-17 14:39:51 - INFO - calling: 977291877
+2023-06-17 14:39:51 - INFO - Quedan 219 números por llamar.
+2023-06-17 14:40:01 - INFO - calling: 950227997
+2023-06-17 14:40:01 - INFO - Quedan 218 números por llamar.
+2023-06-17 14:40:11 - INFO - calling: 920730358
+2023-06-17 14:40:11 - INFO - Quedan 217 números por llamar.
+2023-06-17 14:40:21 - INFO - calling: 974853094
+2023-06-17 14:40:21 - INFO - Quedan 216 números por llamar.
+2023-06-17 14:40:31 - INFO - calling: 922135664
+2023-06-17 14:40:31 - INFO - Quedan 215 números por llamar.
+2023-06-17 14:40:41 - INFO - calling: 974962265
+2023-06-17 14:40:41 - INFO - Quedan 214 números por llamar.
+2023-06-17 14:40:51 - INFO - calling: 922192645
+2023-06-17 14:40:51 - INFO - Quedan 213 números por llamar.
+2023-06-17 14:41:01 - INFO - calling: 955154772
+2023-06-17 14:41:01 - INFO - Quedan 212 números por llamar.
+2023-06-17 14:41:11 - INFO - calling: 930325218
+2023-06-17 14:41:11 - INFO - Quedan 211 números por llamar.
+2023-06-17 14:41:21 - INFO - calling: 930744314
+2023-06-17 14:41:21 - INFO - Quedan 210 números por llamar.
+2023-06-17 14:41:31 - INFO - calling: 978205274
+2023-06-17 14:41:31 - INFO - Quedan 209 números por llamar.
+2023-06-17 14:41:41 - INFO - calling: 984265639
+2023-06-17 14:41:41 - INFO - Quedan 208 números por llamar.
+2023-06-17 14:41:51 - INFO - calling: 986077767
+2023-06-17 14:41:51 - INFO - Quedan 207 números por llamar.
+2023-06-17 14:42:01 - INFO - calling: 930220462
+2023-06-17 14:42:01 - INFO - Quedan 206 números por llamar.
+2023-06-17 14:42:11 - INFO - calling: 986580784
+2023-06-17 14:42:11 - INFO - Quedan 205 números por llamar.
+2023-06-17 14:42:21 - INFO - calling: 982868840
+2023-06-17 14:42:21 - INFO - Quedan 204 números por llamar.
+2023-06-17 14:42:31 - INFO - calling: 981833553
+2023-06-17 14:42:31 - INFO - Quedan 203 números por llamar.
+2023-06-17 14:42:41 - INFO - calling: 979714084
+2023-06-17 14:42:41 - INFO - Quedan 202 números por llamar.
+2023-06-17 14:42:51 - INFO - calling: 991039912
+2023-06-17 14:42:51 - INFO - Quedan 201 números por llamar.
+2023-06-17 14:43:01 - INFO - calling: 955205600
+2023-06-17 14:43:01 - INFO - Quedan 200 números por llamar.
+2023-06-17 14:43:11 - INFO - calling: 939223239
+2023-06-17 14:43:11 - INFO - Quedan 199 números por llamar.
+2023-06-17 14:43:21 - INFO - calling: 950226995
+2023-06-17 14:43:21 - INFO - Quedan 198 números por llamar.
+2023-06-17 14:43:31 - INFO - calling: 933195590
+2023-06-17 14:43:31 - INFO - Quedan 197 números por llamar.
+2023-06-17 14:43:41 - INFO - calling: 934456964
+2023-06-17 14:43:41 - INFO - Quedan 196 números por llamar.
+2023-06-17 14:43:51 - INFO - calling: 951687528
+2023-06-17 14:43:51 - INFO - Quedan 195 números por llamar.
+2023-06-17 14:44:01 - INFO - calling: 996121783
+2023-06-17 14:44:01 - INFO - Quedan 194 números por llamar.
+2023-06-17 14:44:11 - INFO - calling: 953046656
+2023-06-17 14:44:11 - INFO - Quedan 193 números por llamar.
+2023-06-17 14:44:21 - INFO - calling: 944661962
+2023-06-17 14:44:21 - INFO - Quedan 192 números por llamar.
+2023-06-17 14:44:31 - INFO - calling: 979340183
+2023-06-17 14:44:31 - INFO - Quedan 191 números por llamar.
+2023-06-17 14:44:41 - INFO - calling: 935209205
+2023-06-17 14:44:41 - INFO - Quedan 190 números por llamar.
+2023-06-17 14:44:51 - INFO - calling: 990007516
+2023-06-17 14:44:51 - INFO - Quedan 189 números por llamar.
+2023-06-17 14:45:01 - INFO - calling: 958482987
+2023-06-17 14:45:01 - INFO - Quedan 188 números por llamar.
+2023-06-17 14:45:11 - INFO - calling: 930682094
+2023-06-17 14:45:11 - INFO - Quedan 187 números por llamar.
+2023-06-17 14:45:21 - INFO - calling: 999292314
+2023-06-17 14:45:21 - INFO - Quedan 186 números por llamar.
+2023-06-17 14:45:31 - INFO - calling: 931443744
+2023-06-17 14:45:31 - INFO - Quedan 185 números por llamar.
+2023-06-17 14:45:41 - INFO - calling: 976464366
+2023-06-17 14:45:41 - INFO - Quedan 184 números por llamar.
+2023-06-17 14:45:51 - INFO - calling: 952004400
+2023-06-17 14:45:51 - INFO - Quedan 183 números por llamar.
+2023-06-17 14:46:01 - INFO - calling: 950690272
+2023-06-17 14:46:01 - INFO - Quedan 182 números por llamar.
+2023-06-17 14:46:11 - INFO - calling: 945346739
+2023-06-17 14:46:11 - INFO - Quedan 181 números por llamar.
+2023-06-17 14:46:21 - INFO - calling: 935645705
+2023-06-17 14:46:21 - INFO - Quedan 180 números por llamar.
+2023-06-17 14:46:31 - INFO - calling: 988308693
+2023-06-17 14:46:31 - INFO - Quedan 179 números por llamar.
+2023-06-17 14:46:41 - INFO - calling: 982017682
+2023-06-17 14:46:41 - INFO - Quedan 178 números por llamar.
+2023-06-17 14:46:51 - INFO - calling: 959278199
+2023-06-17 14:46:51 - INFO - Quedan 177 números por llamar.
+2023-06-17 14:47:01 - INFO - calling: 996759476
+2023-06-17 14:47:01 - INFO - Quedan 176 números por llamar.
+2023-06-17 14:47:11 - INFO - calling: 957537189
+2023-06-17 14:47:11 - INFO - Quedan 175 números por llamar.
+2023-06-17 14:47:21 - INFO - calling: 944853419
+2023-06-17 14:47:21 - INFO - Quedan 174 números por llamar.
+2023-06-17 14:47:31 - INFO - calling: 945289078
+2023-06-17 14:47:31 - INFO - Quedan 173 números por llamar.
+2023-06-17 14:47:41 - INFO - calling: 998834487
+2023-06-17 14:47:41 - INFO - Quedan 172 números por llamar.
+2023-06-17 14:47:51 - INFO - calling: 954518338
+2023-06-17 14:47:51 - INFO - Quedan 171 números por llamar.
+2023-06-17 14:48:01 - INFO - calling: 982116747
+2023-06-17 14:48:01 - INFO - Quedan 170 números por llamar.
+2023-06-17 14:48:11 - INFO - calling: 990391872
+2023-06-17 14:48:11 - INFO - Quedan 169 números por llamar.
+2023-06-17 14:48:21 - INFO - calling: 978811215
+2023-06-17 14:48:21 - INFO - Quedan 168 números por llamar.
+2023-06-17 14:48:31 - INFO - calling: 945209739
+2023-06-17 14:48:31 - INFO - Quedan 167 números por llamar.
+2023-06-17 14:48:41 - INFO - calling: 942507608
+2023-06-17 14:48:41 - INFO - Quedan 166 números por llamar.
+2023-06-17 14:48:51 - INFO - calling: 920980794
+2023-06-17 14:48:51 - INFO - Quedan 165 números por llamar.
+2023-06-17 14:49:01 - INFO - calling: 977002806
+2023-06-17 14:49:01 - INFO - Quedan 164 números por llamar.
+2023-06-17 14:49:11 - INFO - calling: 995504883
+2023-06-17 14:49:11 - INFO - Quedan 163 números por llamar.
+2023-06-17 14:49:21 - INFO - calling: 961938610
+2023-06-17 14:49:21 - INFO - Quedan 162 números por llamar.
+2023-06-17 14:49:31 - INFO - calling: 963981454
+2023-06-17 14:49:31 - INFO - Quedan 161 números por llamar.
+2023-06-17 14:49:41 - INFO - calling: 957906381
+2023-06-17 14:49:41 - INFO - Quedan 160 números por llamar.
+2023-06-17 14:49:51 - INFO - calling: 945114391
+2023-06-17 14:49:51 - INFO - Quedan 159 números por llamar.
+2023-06-17 14:50:01 - INFO - calling: 971393113
+2023-06-17 14:50:01 - INFO - Quedan 158 números por llamar.
+2023-06-17 14:50:11 - INFO - calling: 948439513
+2023-06-17 14:50:11 - INFO - Quedan 157 números por llamar.
+2023-06-17 14:50:21 - INFO - calling: 920718837
+2023-06-17 14:50:21 - INFO - Quedan 156 números por llamar.
+2023-06-17 14:50:31 - INFO - calling: 956842928
+2023-06-17 14:50:31 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-17 14:50:41 - INFO - calling: 956842928
+2023-06-17 14:50:41 - INFO - Quedan 155 números por llamar.
+2023-06-17 14:50:51 - INFO - calling: 990977990
+2023-06-17 14:50:51 - INFO - Quedan 154 números por llamar.
+2023-06-17 14:51:01 - INFO - calling: 933177688
+2023-06-17 14:51:01 - INFO - Quedan 153 números por llamar.
+2023-06-17 14:51:11 - INFO - calling: 962690616
+2023-06-17 14:51:11 - INFO - Quedan 152 números por llamar.
+2023-06-17 14:51:21 - INFO - calling: 950850191
+2023-06-17 14:51:21 - INFO - Quedan 151 números por llamar.
+2023-06-19 14:33:55 - INFO - cantidad de numeros:484
+2023-06-19 14:33:55 - INFO - calling: 941770864
+2023-06-19 14:33:55 - INFO - Quedan 0 números por llamar.
+2023-06-19 14:34:24 - INFO - cantidad de numeros:484
+2023-06-19 14:34:24 - INFO - calling: 945760262
+2023-06-19 14:34:24 - INFO - Quedan 0 números por llamar.
+2023-06-19 14:35:50 - INFO - cantidad de numeros:484
+2023-06-19 14:35:50 - INFO - calling: 990578558
+2023-06-19 14:35:50 - INFO - Quedan 0 números por llamar.
+2023-06-19 15:02:43 - INFO - cantidad de numeros:484
+2023-06-19 15:02:43 - INFO - calling: 995334482
+2023-06-19 15:02:43 - INFO - Quedan 483 números por llamar.
+2023-06-19 15:02:58 - INFO - calling: 954149330
+2023-06-19 15:02:58 - INFO - Quedan 482 números por llamar.
+2023-06-19 15:03:13 - INFO - calling: 946586434
+2023-06-19 15:03:13 - INFO - Quedan 481 números por llamar.
+2023-06-19 15:03:28 - INFO - calling: 998666583
+2023-06-19 15:03:28 - INFO - Quedan 480 números por llamar.
+2023-06-19 15:03:43 - INFO - calling: 956037457
+2023-06-19 15:03:43 - INFO - Quedan 479 números por llamar.
+2023-06-19 15:03:58 - INFO - calling: 976427228
+2023-06-19 15:03:58 - INFO - Quedan 478 números por llamar.
+2023-06-19 15:04:13 - INFO - calling: 944853419
+2023-06-19 15:04:13 - INFO - Quedan 477 números por llamar.
+2023-06-19 15:04:28 - INFO - calling: 974007599
+2023-06-19 15:04:28 - INFO - Quedan 476 números por llamar.
+2023-06-19 15:04:43 - INFO - calling: 922039442
+2023-06-19 15:04:43 - INFO - Quedan 475 números por llamar.
+2023-06-19 15:04:58 - INFO - calling: 998256746
+2023-06-19 15:04:58 - INFO - Quedan 474 números por llamar.
+2023-06-19 15:05:13 - INFO - calling: 951687528
+2023-06-19 15:05:13 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-19 15:05:23 - INFO - calling: 951687528
+2023-06-19 15:05:23 - INFO - Quedan 473 números por llamar.
+2023-06-19 15:05:38 - INFO - calling: 953630270
+2023-06-19 15:05:38 - INFO - Quedan 472 números por llamar.
+2023-06-19 15:05:53 - INFO - calling: 984905772
+2023-06-19 15:05:53 - INFO - Quedan 471 números por llamar.
+2023-06-19 15:06:08 - INFO - calling: 945585043
+2023-06-19 15:06:08 - INFO - Quedan 470 números por llamar.
+2023-06-19 15:06:23 - INFO - calling: 948439513
+2023-06-19 15:06:23 - INFO - Quedan 469 números por llamar.
+2023-06-19 15:06:38 - INFO - calling: 990007516
+2023-06-19 15:06:38 - INFO - Quedan 468 números por llamar.
+2023-06-19 15:06:53 - INFO - calling: 922135664
+2023-06-19 15:06:53 - INFO - Quedan 467 números por llamar.
+2023-06-19 15:07:08 - INFO - calling: 984034542
+2023-06-19 15:07:08 - INFO - Quedan 466 números por llamar.
+2023-06-19 15:07:23 - INFO - calling: 957537189
+2023-06-19 15:07:23 - INFO - Quedan 465 números por llamar.
+2023-06-19 15:07:38 - INFO - calling: 945032677
+2023-06-19 15:07:38 - INFO - Quedan 464 números por llamar.
+2023-06-19 15:07:53 - INFO - calling: 975539111
+2023-06-19 15:07:53 - INFO - Quedan 463 números por llamar.
+2023-06-19 15:08:08 - INFO - calling: 922221014
+2023-06-19 15:08:08 - INFO - Quedan 462 números por llamar.
+2023-06-19 15:08:23 - INFO - calling: 920111316
+2023-06-19 15:08:23 - INFO - Quedan 461 números por llamar.
+2023-06-19 15:08:38 - INFO - calling: 971627767
+2023-06-19 15:08:38 - INFO - Quedan 460 números por llamar.
+2023-06-19 15:08:53 - INFO - calling: 922587485
+2023-06-19 15:08:53 - INFO - Quedan 459 números por llamar.
+2023-06-19 15:09:08 - INFO - calling: 971972087
+2023-06-19 15:09:08 - INFO - Quedan 458 números por llamar.
+2023-06-19 15:09:23 - INFO - calling: 971539119
+2023-06-19 15:09:23 - INFO - Quedan 457 números por llamar.
+2023-06-19 15:09:38 - INFO - calling: 998954648
+2023-06-19 15:09:38 - INFO - Quedan 456 números por llamar.
+2023-06-19 15:09:53 - INFO - calling: 989068293
+2023-06-19 15:09:53 - INFO - Quedan 455 números por llamar.
+2023-06-19 15:10:08 - INFO - calling: 936514390
+2023-06-19 15:10:08 - INFO - Quedan 454 números por llamar.
+2023-06-19 15:10:23 - INFO - calling: 948678817
+2023-06-19 15:10:23 - INFO - Quedan 453 números por llamar.
+2023-06-19 15:10:38 - INFO - calling: 959113236
+2023-06-19 15:10:38 - INFO - Quedan 452 números por llamar.
+2023-06-19 15:10:53 - INFO - calling: 932335664
+2023-06-19 15:10:53 - INFO - Quedan 451 números por llamar.
+2023-06-19 15:11:08 - INFO - calling: 950624781
+2023-06-19 15:11:08 - INFO - Quedan 450 números por llamar.
+2023-06-19 15:11:23 - INFO - calling: 935299262
+2023-06-19 15:11:23 - INFO - Quedan 449 números por llamar.
+2023-06-19 15:11:38 - INFO - calling: 939223239
+2023-06-19 15:11:38 - INFO - Quedan 448 números por llamar.
+2023-06-19 15:11:53 - INFO - calling: 976464366
+2023-06-19 15:11:53 - INFO - Quedan 447 números por llamar.
+2023-06-19 15:12:08 - INFO - calling: 963276061
+2023-06-19 15:12:08 - INFO - Quedan 446 números por llamar.
+2023-06-19 15:12:23 - INFO - calling: 955274199
+2023-06-19 15:12:23 - INFO - Quedan 445 números por llamar.
+2023-06-19 15:12:38 - INFO - calling: 994391009
+2023-06-19 15:12:38 - INFO - Quedan 444 números por llamar.
+2023-06-19 15:12:53 - INFO - calling: 971398224
+2023-06-19 15:12:53 - INFO - Quedan 443 números por llamar.
+2023-06-19 15:13:08 - INFO - calling: 935421876
+2023-06-19 15:13:08 - INFO - Quedan 442 números por llamar.
+2023-06-19 15:13:23 - INFO - calling: 982868840
+2023-06-19 15:13:23 - INFO - Quedan 441 números por llamar.
+2023-06-19 15:13:38 - INFO - calling: 979714084
+2023-06-19 15:13:38 - INFO - Quedan 440 números por llamar.
+2023-06-19 15:13:53 - INFO - calling: 976044421
+2023-06-19 15:13:53 - INFO - Quedan 439 números por llamar.
+2023-06-19 15:14:08 - INFO - calling: 968763517
+2023-06-19 15:14:08 - INFO - Quedan 438 números por llamar.
+2023-06-19 15:14:23 - INFO - calling: 956008302
+2023-06-19 15:14:23 - INFO - Quedan 437 números por llamar.
+2023-06-19 15:14:38 - INFO - calling: 971723743
+2023-06-19 15:14:38 - INFO - Quedan 436 números por llamar.
+2023-06-19 15:14:53 - INFO - calling: 963469675
+2023-06-19 15:14:53 - INFO - Quedan 435 números por llamar.
+2023-06-19 15:15:08 - INFO - calling: 930995084
+2023-06-19 15:15:08 - INFO - Quedan 434 números por llamar.
+2023-06-19 15:15:23 - INFO - calling: 972558184
+2023-06-19 15:15:23 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-19 15:15:33 - INFO - calling: 972558184
+2023-06-19 15:15:33 - INFO - Quedan 433 números por llamar.
+2023-06-19 15:15:48 - INFO - calling: 978622275
+2023-06-19 15:15:48 - INFO - Quedan 432 números por llamar.
+2023-06-19 15:16:04 - INFO - calling: 978811215
+2023-06-19 15:16:04 - INFO - Quedan 431 números por llamar.
+2023-06-19 15:16:19 - INFO - calling: 937043477
+2023-06-19 15:16:19 - INFO - Quedan 430 números por llamar.
+2023-06-19 15:16:34 - INFO - calling: 948737698
+2023-06-19 15:16:34 - INFO - Quedan 429 números por llamar.
+2023-06-19 15:16:49 - INFO - calling: 959278199
+2023-06-19 15:16:49 - INFO - Quedan 428 números por llamar.
+2023-06-19 15:17:04 - INFO - calling: 932777378
+2023-06-19 15:17:04 - INFO - Quedan 427 números por llamar.
+2023-06-19 15:17:19 - INFO - calling: 985563969
+2023-06-19 15:17:19 - INFO - Quedan 426 números por llamar.
+2023-06-19 15:17:34 - INFO - calling: 990103751
+2023-06-19 15:17:34 - INFO - Quedan 425 números por llamar.
+2023-06-19 15:17:49 - INFO - calling: 920700258
+2023-06-19 15:17:49 - INFO - Quedan 424 números por llamar.
+2023-06-19 15:18:04 - INFO - calling: 942425708
+2023-06-19 15:18:04 - INFO - Quedan 423 números por llamar.
+2023-06-19 15:18:19 - INFO - calling: 931286556
+2023-06-19 15:18:19 - INFO - Quedan 422 números por llamar.
+2023-06-19 15:18:34 - INFO - calling: 973973926
+2023-06-19 15:18:34 - INFO - Quedan 421 números por llamar.
+2023-06-19 15:18:49 - INFO - calling: 991236581
+2023-06-19 15:18:49 - INFO - Quedan 420 números por llamar.
+2023-06-19 15:19:04 - INFO - calling: 946873414
+2023-06-19 15:19:04 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-19 15:19:14 - INFO - calling: 946873414
+2023-06-19 15:19:14 - INFO - Quedan 419 números por llamar.
+2023-06-19 15:19:29 - INFO - calling: 973177542
+2023-06-19 15:19:29 - INFO - Quedan 418 números por llamar.
+2023-06-19 15:19:44 - INFO - calling: 935859666
+2023-06-19 15:19:44 - INFO - Quedan 417 números por llamar.
+2023-06-19 15:19:59 - INFO - calling: 950378960
+2023-06-19 15:19:59 - INFO - Quedan 416 números por llamar.
+2023-06-19 15:20:14 - INFO - calling: 920718837
+2023-06-19 15:20:14 - INFO - Quedan 415 números por llamar.
+2023-06-19 15:20:29 - INFO - calling: 945820378
+2023-06-19 15:20:29 - INFO - Quedan 414 números por llamar.
+2023-06-19 15:20:44 - INFO - calling: 922440725
+2023-06-19 15:20:44 - INFO - Quedan 413 números por llamar.
+2023-06-19 15:20:59 - INFO - calling: 944075591
+2023-06-19 15:20:59 - INFO - Quedan 412 números por llamar.
+2023-06-19 15:21:14 - INFO - calling: 920290472
+2023-06-19 15:21:14 - INFO - Quedan 411 números por llamar.
+2023-06-19 15:21:29 - INFO - calling: 959360079
+2023-06-19 15:21:29 - INFO - Quedan 410 números por llamar.
+2023-06-19 15:21:44 - INFO - calling: 974853094
+2023-06-19 15:21:44 - INFO - Quedan 409 números por llamar.
+2023-06-19 15:21:59 - INFO - calling: 957761741
+2023-06-19 15:21:59 - INFO - Quedan 408 números por llamar.
+2023-06-19 15:22:14 - INFO - calling: 982487742
+2023-06-19 15:22:14 - INFO - Quedan 407 números por llamar.
+2023-06-19 15:22:29 - INFO - calling: 979094594
+2023-06-19 15:22:29 - INFO - Quedan 406 números por llamar.
+2023-06-19 15:22:44 - INFO - calling: 930744314
+2023-06-19 15:22:44 - INFO - Quedan 405 números por llamar.
+2023-06-19 15:22:59 - INFO - calling: 920730358
+2023-06-19 15:22:59 - INFO - Quedan 404 números por llamar.
+2023-06-19 15:23:14 - INFO - calling: 977645599
+2023-06-19 15:23:14 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-19 15:23:24 - INFO - calling: 977645599
+2023-06-19 15:23:24 - INFO - Quedan 403 números por llamar.
+2023-06-19 15:23:39 - INFO - calling: 965686719
+2023-06-19 15:23:39 - INFO - Quedan 402 números por llamar.
+2023-06-19 15:23:54 - INFO - calling: 930816802
+2023-06-19 15:23:54 - INFO - Quedan 401 números por llamar.
+2023-06-19 15:24:09 - INFO - calling: 958144776
+2023-06-19 15:24:09 - INFO - Quedan 400 números por llamar.
+2023-06-19 15:24:24 - INFO - calling: 920867150
+2023-06-19 15:24:24 - INFO - Quedan 399 números por llamar.
+2023-06-19 15:24:39 - INFO - calling: 988308693
+2023-06-19 15:24:39 - INFO - Quedan 398 números por llamar.
+2023-06-19 15:24:54 - INFO - calling: 961106941
+2023-06-19 15:24:54 - INFO - Quedan 397 números por llamar.
+2023-06-19 15:25:09 - INFO - calling: 930373630
+2023-06-19 15:25:09 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-19 15:25:19 - INFO - calling: 930373630
+2023-06-19 15:25:19 - INFO - Quedan 396 números por llamar.
+2023-06-19 15:25:34 - INFO - calling: 990539826
+2023-06-19 15:25:34 - INFO - Quedan 395 números por llamar.
+2023-06-19 15:25:49 - INFO - calling: 994697682
+2023-06-19 15:25:49 - INFO - Quedan 394 números por llamar.
+2023-06-19 15:26:04 - INFO - calling: 982573801
+2023-06-19 15:26:04 - INFO - Quedan 393 números por llamar.
+2023-06-19 15:26:19 - INFO - calling: 932306450
+2023-06-19 15:26:19 - INFO - Quedan 392 números por llamar.
+2023-06-19 15:26:34 - INFO - calling: 979957040
+2023-06-19 15:26:34 - INFO - Quedan 391 números por llamar.
+2023-06-19 15:26:49 - INFO - calling: 976920990
+2023-06-19 15:26:49 - INFO - Quedan 390 números por llamar.
+2023-06-19 15:27:04 - INFO - calling: 966970998
+2023-06-19 15:27:04 - INFO - Quedan 389 números por llamar.
+2023-06-19 15:27:19 - INFO - calling: 945346739
+2023-06-19 15:27:19 - INFO - Quedan 388 números por llamar.
+2023-06-19 15:27:34 - INFO - calling: 957317699
+2023-06-19 15:27:34 - INFO - Quedan 387 números por llamar.
+2023-06-19 15:27:49 - INFO - calling: 982493228
+2023-06-19 15:27:49 - INFO - Quedan 386 números por llamar.
+2023-06-19 15:28:04 - INFO - calling: 988093156
+2023-06-19 15:28:04 - INFO - Quedan 385 números por llamar.
+2023-06-19 15:28:19 - INFO - calling: 995438715
+2023-06-19 15:28:19 - INFO - Quedan 384 números por llamar.
+2023-06-19 15:28:34 - INFO - calling: 987380749
+2023-06-19 15:28:34 - INFO - Quedan 383 números por llamar.
+2023-06-19 15:28:49 - INFO - calling: 931116703
+2023-06-19 15:28:49 - INFO - Quedan 382 números por llamar.
+2023-06-19 15:29:04 - INFO - calling: 933516153
+2023-06-19 15:29:04 - INFO - Quedan 381 números por llamar.
+2023-06-19 15:29:19 - INFO - calling: 949070573
+2023-06-19 15:29:19 - INFO - Quedan 380 números por llamar.
+2023-06-19 15:29:34 - INFO - calling: 937661921
+2023-06-19 15:29:34 - INFO - Quedan 379 números por llamar.
+2023-06-19 15:29:49 - INFO - calling: 990935714
+2023-06-19 15:29:49 - INFO - Quedan 378 números por llamar.
+2023-06-19 15:30:04 - INFO - calling: 989709461
+2023-06-19 15:30:04 - INFO - Quedan 377 números por llamar.
+2023-06-19 15:30:19 - INFO - calling: 982434832
+2023-06-19 15:30:19 - INFO - Quedan 376 números por llamar.
+2023-06-19 15:30:34 - INFO - calling: 979332216
+2023-06-19 15:30:34 - INFO - Quedan 375 números por llamar.
+2023-06-19 15:30:49 - INFO - calling: 997461041
+2023-06-19 15:30:49 - INFO - Quedan 374 números por llamar.
+2023-06-19 15:31:04 - INFO - calling: 952004400
+2023-06-19 15:31:04 - INFO - Quedan 373 números por llamar.
+2023-06-19 15:31:19 - INFO - calling: 964145382
+2023-06-19 15:31:19 - INFO - Quedan 372 números por llamar.
+2023-06-19 15:31:34 - INFO - calling: 933167593
+2023-06-19 15:31:34 - INFO - Quedan 371 números por llamar.
+2023-06-19 15:31:49 - INFO - calling: 932726125
+2023-06-19 15:31:49 - INFO - Quedan 370 números por llamar.
+2023-06-19 15:32:04 - INFO - calling: 962806109
+2023-06-19 15:32:04 - INFO - Quedan 369 números por llamar.
+2023-06-19 15:32:19 - INFO - calling: 986580784
+2023-06-19 15:32:19 - INFO - Quedan 368 números por llamar.
+2023-06-19 15:32:34 - INFO - calling: 931797905
+2023-06-19 15:32:34 - INFO - Quedan 367 números por llamar.
+2023-06-19 15:32:49 - INFO - calling: 988883914
+2023-06-19 15:32:49 - INFO - Quedan 366 números por llamar.
+2023-06-19 15:33:04 - INFO - calling: 973758278
+2023-06-19 15:33:04 - INFO - Quedan 365 números por llamar.
+2023-06-19 15:33:19 - INFO - calling: 972355440
+2023-06-19 15:33:19 - INFO - Quedan 364 números por llamar.
+2023-06-19 15:33:34 - INFO - calling: 962443813
+2023-06-19 15:33:34 - INFO - Quedan 363 números por llamar.
+2023-06-19 15:33:49 - INFO - calling: 949609758
+2023-06-19 15:33:49 - INFO - Quedan 362 números por llamar.
+2023-06-19 15:34:05 - INFO - calling: 985964653
+2023-06-19 15:34:05 - INFO - Quedan 361 números por llamar.
+2023-06-19 15:34:20 - INFO - calling: 984052108
+2023-06-19 15:34:20 - INFO - Quedan 360 números por llamar.
+2023-06-19 15:34:35 - INFO - calling: 995504883
+2023-06-19 15:34:35 - INFO - Quedan 359 números por llamar.
+2023-06-19 15:34:50 - INFO - calling: 949604570
+2023-06-19 15:34:50 - INFO - Quedan 358 números por llamar.
+2023-06-19 15:35:05 - INFO - calling: 990881802
+2023-06-19 15:35:05 - INFO - Quedan 357 números por llamar.
+2023-06-19 15:35:20 - INFO - calling: 965505398
+2023-06-19 15:35:20 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-19 15:35:30 - INFO - calling: 965505398
+2023-06-19 15:35:30 - INFO - Quedan 356 números por llamar.
+2023-06-19 15:35:45 - INFO - calling: 930682094
+2023-06-19 15:35:45 - INFO - Quedan 355 números por llamar.
+2023-06-19 15:36:00 - INFO - calling: 977002806
+2023-06-19 15:36:00 - INFO - Quedan 354 números por llamar.
+2023-06-19 15:36:15 - INFO - calling: 950482166
+2023-06-19 15:36:15 - INFO - Quedan 353 números por llamar.
+2023-06-19 15:36:30 - INFO - calling: 990544144
+2023-06-19 15:36:30 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-19 15:36:40 - INFO - calling: 990544144
+2023-06-19 15:36:40 - INFO - Quedan 352 números por llamar.
+2023-06-19 15:36:55 - INFO - calling: 971536330
+2023-06-19 15:36:55 - INFO - Quedan 351 números por llamar.
+2023-06-19 15:37:10 - INFO - calling: 922192645
+2023-06-19 15:37:10 - INFO - Quedan 350 números por llamar.
+2023-06-19 15:37:25 - INFO - calling: 977291877
+2023-06-19 15:37:25 - INFO - Quedan 349 números por llamar.
+2023-06-19 15:37:40 - INFO - calling: 971483685
+2023-06-19 15:37:40 - INFO - Quedan 348 números por llamar.
+2023-06-19 15:37:55 - INFO - calling: 961035023
+2023-06-19 15:37:55 - INFO - Quedan 347 números por llamar.
+2023-06-19 15:38:10 - INFO - calling: 940168485
+2023-06-19 15:38:10 - INFO - Quedan 346 números por llamar.
+2023-06-19 15:38:25 - INFO - calling: 979648186
+2023-06-19 15:38:25 - INFO - Quedan 345 números por llamar.
+2023-06-19 15:38:40 - INFO - calling: 993435255
+2023-06-19 15:38:40 - INFO - Quedan 344 números por llamar.
+2023-06-19 15:38:55 - INFO - calling: 979147880
+2023-06-19 15:38:55 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-19 15:39:05 - INFO - calling: 979147880
+2023-06-19 15:39:05 - INFO - Quedan 343 números por llamar.
+2023-06-19 15:39:20 - INFO - calling: 994136331
+2023-06-19 15:39:20 - INFO - Quedan 342 números por llamar.
+2023-06-19 15:39:35 - INFO - calling: 965038007
+2023-06-19 15:39:35 - INFO - Quedan 341 números por llamar.
+2023-06-19 15:39:50 - INFO - calling: 926213106
+2023-06-19 15:39:50 - INFO - Quedan 340 números por llamar.
+2023-06-19 15:40:05 - INFO - calling: 979366035
+2023-06-19 15:40:05 - INFO - Quedan 339 números por llamar.
+2023-06-19 15:40:20 - INFO - calling: 977321936
+2023-06-19 15:40:20 - INFO - Quedan 338 números por llamar.
+2023-06-19 15:40:35 - INFO - calling: 966809865
+2023-06-19 15:40:35 - INFO - Quedan 337 números por llamar.
+2023-06-19 15:40:50 - INFO - calling: 946703122
+2023-06-19 15:40:50 - INFO - Quedan 336 números por llamar.
+2023-06-19 15:41:05 - INFO - calling: 986576259
+2023-06-19 15:41:05 - INFO - Quedan 335 números por llamar.
+2023-06-19 15:41:20 - INFO - calling: 973698895
+2023-06-19 15:41:20 - INFO - Quedan 334 números por llamar.
+2023-06-19 15:41:35 - INFO - calling: 948867866
+2023-06-19 15:41:35 - INFO - Quedan 333 números por llamar.
+2023-06-19 15:41:50 - INFO - calling: 981833553
+2023-06-19 15:41:50 - INFO - Quedan 332 números por llamar.
+2023-06-19 15:42:05 - INFO - calling: 986206616
+2023-06-19 15:42:05 - INFO - Quedan 331 números por llamar.
+2023-06-19 15:42:20 - INFO - calling: 993104185
+2023-06-19 15:42:20 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-19 15:42:30 - INFO - calling: 993104185
+2023-06-19 15:42:30 - INFO - Quedan 330 números por llamar.
+2023-06-19 15:42:45 - INFO - calling: 937684752
+2023-06-19 15:42:45 - INFO - Quedan 329 números por llamar.
+2023-06-19 15:43:00 - INFO - calling: 959712073
+2023-06-19 15:43:00 - INFO - Quedan 328 números por llamar.
+2023-06-19 15:43:15 - INFO - calling: 984162685
+2023-06-19 15:43:15 - INFO - Quedan 327 números por llamar.
+2023-06-19 15:43:30 - INFO - calling: 949316934
+2023-06-19 15:43:30 - INFO - Quedan 326 números por llamar.
+2023-06-19 15:43:45 - INFO - calling: 958937959
+2023-06-19 15:43:45 - INFO - Quedan 325 números por llamar.
+2023-06-19 15:44:00 - INFO - calling: 984206164
+2023-06-19 15:44:00 - INFO - Quedan 324 números por llamar.
+2023-06-19 15:44:15 - INFO - calling: 936845000
+2023-06-19 15:44:15 - INFO - Quedan 323 números por llamar.
+2023-06-19 15:44:30 - INFO - calling: 977094537
+2023-06-19 15:44:30 - INFO - Quedan 322 números por llamar.
+2023-06-19 15:44:45 - INFO - calling: 997950079
+2023-06-19 15:44:45 - INFO - Quedan 321 números por llamar.
+2023-06-19 15:45:00 - INFO - calling: 941617744
+2023-06-19 15:45:00 - INFO - Quedan 320 números por llamar.
+2023-06-19 15:45:15 - INFO - calling: 988062041
+2023-06-19 15:45:15 - INFO - Quedan 319 números por llamar.
+2023-06-19 15:45:30 - INFO - calling: 952143732
+2023-06-19 15:45:30 - INFO - Quedan 318 números por llamar.
+2023-06-19 15:45:45 - INFO - calling: 998834487
+2023-06-19 15:45:45 - INFO - Quedan 317 números por llamar.
+2023-06-19 15:46:00 - INFO - calling: 993825175
+2023-06-19 15:46:00 - INFO - Quedan 316 números por llamar.
+2023-06-19 15:46:15 - INFO - calling: 999292314
+2023-06-19 15:46:15 - INFO - Quedan 315 números por llamar.
+2023-06-19 15:46:30 - INFO - calling: 932999312
+2023-06-19 15:46:30 - INFO - Quedan 314 números por llamar.
+2023-06-19 15:46:45 - INFO - calling: 991039912
+2023-06-19 15:46:45 - INFO - Quedan 313 números por llamar.
+2023-06-19 15:47:00 - INFO - calling: 940310695
+2023-06-19 15:47:00 - INFO - Quedan 312 números por llamar.
+2023-06-19 15:47:15 - INFO - calling: 950664104
+2023-06-19 15:47:15 - INFO - Quedan 311 números por llamar.
+2023-06-19 15:47:30 - INFO - calling: 976513568
+2023-06-19 15:47:30 - INFO - Quedan 310 números por llamar.
+2023-06-19 15:47:45 - INFO - calling: 944185671
+2023-06-19 15:47:45 - INFO - Quedan 309 números por llamar.
+2023-06-19 15:48:00 - INFO - calling: 997879103
+2023-06-19 15:48:00 - INFO - Quedan 308 números por llamar.
+2023-06-19 15:48:15 - INFO - calling: 955205600
+2023-06-19 15:48:15 - INFO - Quedan 307 números por llamar.
+2023-06-19 15:48:30 - INFO - calling: 958769865
+2023-06-19 15:48:30 - INFO - Quedan 306 números por llamar.
+2023-06-19 15:48:45 - INFO - calling: 945928595
+2023-06-19 15:48:45 - INFO - Quedan 305 números por llamar.
+2023-06-19 15:49:00 - INFO - calling: 948567972
+2023-06-19 15:49:00 - INFO - Quedan 304 números por llamar.
+2023-06-19 15:49:15 - INFO - calling: 958302337
+2023-06-19 15:49:15 - INFO - Quedan 303 números por llamar.
+2023-06-19 15:49:30 - INFO - calling: 937878928
+2023-06-19 15:49:30 - INFO - Quedan 302 números por llamar.
+2023-06-19 15:49:45 - INFO - calling: 967003649
+2023-06-19 15:49:45 - INFO - Quedan 301 números por llamar.
+2023-06-19 15:50:00 - INFO - calling: 935236323
+2023-06-19 15:50:00 - INFO - Quedan 300 números por llamar.
+2023-06-19 15:50:15 - INFO - calling: 958851251
+2023-06-19 15:50:15 - INFO - Quedan 299 números por llamar.
+2023-06-19 15:50:30 - INFO - calling: 934819379
+2023-06-19 15:50:30 - INFO - Quedan 298 números por llamar.
+2023-06-19 15:50:45 - INFO - calling: 988368134
+2023-06-19 15:50:45 - INFO - Quedan 297 números por llamar.
+2023-06-19 15:51:00 - INFO - calling: 922320098
+2023-06-19 15:51:00 - INFO - Quedan 296 números por llamar.
+2023-06-19 15:51:15 - INFO - calling: 961240231
+2023-06-19 15:51:15 - INFO - Quedan 295 números por llamar.
+2023-06-19 15:51:30 - INFO - calling: 991326809
+2023-06-19 15:51:30 - INFO - Quedan 294 números por llamar.
+2023-06-19 15:51:45 - INFO - calling: 934821345
+2023-06-19 15:51:45 - INFO - Quedan 293 números por llamar.
+2023-06-19 15:52:00 - INFO - calling: 956842928
+2023-06-19 15:52:00 - INFO - Quedan 292 números por llamar.
+2023-06-19 15:52:15 - INFO - calling: 954389484
+2023-06-19 15:52:15 - INFO - Quedan 291 números por llamar.
+2023-06-19 15:52:30 - INFO - calling: 950229215
+2023-06-19 15:52:30 - INFO - Quedan 290 números por llamar.
+2023-06-19 15:52:46 - INFO - calling: 984475106
+2023-06-19 15:52:46 - INFO - Quedan 289 números por llamar.
+2023-06-19 15:53:01 - INFO - calling: 982612291
+2023-06-19 15:53:01 - INFO - Quedan 288 números por llamar.
+2023-06-19 15:53:16 - INFO - calling: 988846627
+2023-06-19 15:53:16 - INFO - Quedan 287 números por llamar.
+2023-06-19 15:53:31 - INFO - calling: 920783168
+2023-06-19 15:53:31 - INFO - Quedan 286 números por llamar.
+2023-06-19 15:53:46 - INFO - calling: 935853120
+2023-06-19 15:53:46 - INFO - Quedan 285 números por llamar.
+2023-06-19 15:54:01 - INFO - calling: 922191767
+2023-06-19 15:54:01 - INFO - Quedan 284 números por llamar.
+2023-06-19 15:54:16 - INFO - calling: 933515934
+2023-06-19 15:54:16 - INFO - Quedan 283 números por llamar.
+2023-06-19 15:54:31 - INFO - calling: 988383242
+2023-06-19 15:54:31 - INFO - Quedan 282 números por llamar.
+2023-06-19 15:54:46 - INFO - calling: 979564051
+2023-06-19 15:54:46 - INFO - Quedan 281 números por llamar.
+2023-06-19 15:55:01 - INFO - calling: 946552486
+2023-06-19 15:55:01 - INFO - Quedan 280 números por llamar.
+2023-06-19 15:55:16 - INFO - calling: 967049226
+2023-06-19 15:55:16 - INFO - Quedan 279 números por llamar.
+2023-06-19 15:55:31 - INFO - calling: 949019334
+2023-06-19 15:55:31 - INFO - Quedan 278 números por llamar.
+2023-06-19 15:55:46 - INFO - calling: 986618328
+2023-06-19 15:55:46 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-19 15:55:56 - INFO - calling: 986618328
+2023-06-19 15:55:56 - INFO - Quedan 277 números por llamar.
+2023-06-19 15:56:11 - INFO - calling: 941046888
+2023-06-19 15:56:11 - INFO - Quedan 276 números por llamar.
+2023-06-19 15:56:26 - INFO - calling: 972753958
+2023-06-19 15:56:26 - INFO - Quedan 275 números por llamar.
+2023-06-19 15:56:41 - INFO - calling: 963223519
+2023-06-19 15:56:41 - INFO - Quedan 274 números por llamar.
+2023-06-19 15:56:56 - INFO - calling: 967227478
+2023-06-19 15:56:56 - INFO - Quedan 273 números por llamar.
+2023-06-19 15:57:11 - INFO - calling: 994954108
+2023-06-19 15:57:11 - INFO - Quedan 272 números por llamar.
+2023-06-19 15:57:26 - INFO - calling: 990977990
+2023-06-19 15:57:26 - INFO - Quedan 271 números por llamar.
+2023-06-19 15:57:41 - INFO - calling: 972273534
+2023-06-19 15:57:41 - INFO - Quedan 270 números por llamar.
+2023-06-19 15:57:56 - INFO - calling: 998705644
+2023-06-19 15:57:56 - INFO - Quedan 269 números por llamar.
+2023-06-19 15:58:11 - INFO - calling: 922113242
+2023-06-19 15:58:11 - INFO - Quedan 268 números por llamar.
+2023-06-19 15:58:26 - INFO - calling: 935284155
+2023-06-19 15:58:26 - INFO - Quedan 267 números por llamar.
+2023-06-19 15:58:41 - INFO - calling: 945727565
+2023-06-19 15:58:41 - INFO - Quedan 266 números por llamar.
+2023-06-19 15:58:56 - INFO - calling: 967146776
+2023-06-19 15:58:56 - INFO - Quedan 265 números por llamar.
+2023-06-19 15:59:11 - INFO - calling: 958509515
+2023-06-19 15:59:11 - INFO - Quedan 264 números por llamar.
+2023-06-19 15:59:26 - INFO - calling: 931208600
+2023-06-19 15:59:26 - INFO - Quedan 263 números por llamar.
+2023-06-19 15:59:41 - INFO - calling: 964475161
+2023-06-19 15:59:41 - INFO - Quedan 262 números por llamar.
+2023-06-19 15:59:56 - INFO - calling: 975572957
+2023-06-19 15:59:56 - INFO - Quedan 261 números por llamar.
+2023-06-19 16:00:11 - INFO - calling: 931239467
+2023-06-19 16:00:11 - INFO - Quedan 260 números por llamar.
+2023-06-19 16:00:26 - INFO - calling: 959101939
+2023-06-19 16:00:26 - INFO - Quedan 259 números por llamar.
+2023-06-19 16:00:41 - INFO - calling: 922410520
+2023-06-19 16:00:41 - INFO - Quedan 258 números por llamar.
+2023-06-19 16:00:56 - INFO - calling: 961938610
+2023-06-19 16:00:56 - INFO - Quedan 257 números por llamar.
+2023-06-19 16:01:11 - INFO - calling: 995806510
+2023-06-19 16:01:11 - INFO - Quedan 256 números por llamar.
+2023-06-19 16:01:26 - INFO - calling: 954253293
+2023-06-19 16:01:26 - INFO - Quedan 255 números por llamar.
+2023-06-19 16:01:41 - INFO - calling: 967663272
+2023-06-19 16:01:41 - INFO - Quedan 254 números por llamar.
+2023-06-19 16:01:56 - INFO - calling: 983072790
+2023-06-19 16:01:56 - INFO - Quedan 253 números por llamar.
+2023-06-19 16:02:11 - INFO - calling: 945944194
+2023-06-19 16:02:11 - INFO - Quedan 252 números por llamar.
+2023-06-19 16:02:26 - INFO - calling: 932125437
+2023-06-19 16:02:26 - INFO - Quedan 251 números por llamar.
+2023-06-19 16:02:41 - INFO - calling: 961624932
+2023-06-19 16:02:41 - INFO - Quedan 250 números por llamar.
+2023-06-19 16:02:56 - INFO - calling: 975913481
+2023-06-19 16:02:56 - INFO - Quedan 249 números por llamar.
+2023-06-19 16:03:11 - INFO - calling: 941689648
+2023-06-19 16:03:11 - INFO - Quedan 248 números por llamar.
+2023-06-19 16:03:26 - INFO - calling: 957065694
+2023-06-19 16:03:26 - INFO - Quedan 247 números por llamar.
+2023-06-19 16:03:41 - INFO - calling: 946826630
+2023-06-19 16:03:41 - INFO - Quedan 246 números por llamar.
+2023-06-19 16:03:56 - INFO - calling: 973213463
+2023-06-19 16:03:56 - INFO - Quedan 245 números por llamar.
+2023-06-19 16:04:11 - INFO - calling: 922271376
+2023-06-19 16:04:11 - INFO - Quedan 244 números por llamar.
+2023-06-19 16:04:26 - INFO - calling: 955368407
+2023-06-19 16:04:26 - INFO - Quedan 243 números por llamar.
+2023-06-19 16:04:41 - INFO - calling: 978465646
+2023-06-19 16:04:41 - INFO - Quedan 242 números por llamar.
+2023-06-19 16:04:56 - INFO - calling: 955158301
+2023-06-19 16:04:56 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-19 16:05:06 - INFO - calling: 955158301
+2023-06-19 16:05:06 - INFO - Quedan 241 números por llamar.
+2023-06-19 16:05:21 - INFO - calling: 973037964
+2023-06-19 16:05:21 - INFO - Quedan 240 números por llamar.
+2023-06-19 16:05:36 - INFO - calling: 984077450
+2023-06-19 16:05:36 - INFO - Quedan 239 números por llamar.
+2023-06-19 16:05:51 - INFO - calling: 931291647
+2023-06-19 16:05:51 - INFO - Quedan 238 números por llamar.
+2023-06-19 16:06:06 - INFO - calling: 953571309
+2023-06-19 16:06:06 - INFO - Quedan 237 números por llamar.
+2023-06-19 16:06:21 - INFO - calling: 971312017
+2023-06-19 16:06:21 - INFO - Quedan 236 números por llamar.
+2023-06-19 16:06:36 - INFO - calling: 973829121
+2023-06-19 16:06:36 - INFO - Quedan 235 números por llamar.
+2023-06-19 16:06:51 - INFO - calling: 944352977
+2023-06-19 16:06:51 - INFO - Quedan 234 números por llamar.
+2023-06-19 16:07:06 - INFO - calling: 958178471
+2023-06-19 16:07:06 - INFO - Quedan 233 números por llamar.
+2023-06-19 16:07:21 - INFO - calling: 930191345
+2023-06-19 16:07:21 - INFO - Quedan 232 números por llamar.
+2023-06-19 16:07:36 - INFO - calling: 984288139
+2023-06-19 16:07:36 - INFO - Quedan 231 números por llamar.
+2023-06-19 16:07:51 - INFO - calling: 992469094
+2023-06-19 16:07:51 - INFO - Quedan 230 números por llamar.
+2023-06-19 16:08:06 - INFO - calling: 936524669
+2023-06-19 16:08:06 - INFO - Quedan 229 números por llamar.
+2023-06-19 16:08:21 - INFO - calling: 922035521
+2023-06-19 16:08:21 - INFO - Quedan 228 números por llamar.
+2023-06-19 16:08:36 - INFO - calling: 950685208
+2023-06-19 16:08:36 - INFO - Quedan 227 números por llamar.
+2023-06-19 16:08:51 - INFO - calling: 937201236
+2023-06-19 16:08:51 - INFO - Quedan 226 números por llamar.
+2023-06-19 16:09:06 - INFO - calling: 981264313
+2023-06-19 16:09:06 - INFO - Quedan 225 números por llamar.
+2023-06-19 16:09:21 - INFO - calling: 956446451
+2023-06-19 16:09:21 - INFO - Quedan 224 números por llamar.
+2023-06-19 16:09:36 - INFO - calling: 965235588
+2023-06-19 16:09:36 - INFO - Quedan 223 números por llamar.
+2023-06-19 16:09:51 - INFO - calling: 986077767
+2023-06-19 16:09:51 - INFO - Quedan 222 números por llamar.
+2023-06-19 16:10:06 - INFO - calling: 984672650
+2023-06-19 16:10:06 - INFO - Quedan 221 números por llamar.
+2023-06-19 16:10:21 - INFO - calling: 951922694
+2023-06-19 16:10:21 - INFO - Quedan 220 números por llamar.
+2023-06-19 16:10:37 - INFO - calling: 948152015
+2023-06-19 16:10:37 - INFO - Quedan 219 números por llamar.
+2023-06-19 16:10:52 - INFO - calling: 954410188
+2023-06-19 16:10:52 - INFO - Quedan 218 números por llamar.
+2023-06-19 16:11:07 - INFO - calling: 976996331
+2023-06-19 16:11:07 - INFO - Quedan 217 números por llamar.
+2023-06-19 16:11:22 - INFO - calling: 931428402
+2023-06-19 16:11:22 - INFO - Quedan 216 números por llamar.
+2023-06-19 16:11:37 - INFO - calling: 920164324
+2023-06-19 16:11:37 - INFO - Quedan 215 números por llamar.
+2023-06-19 16:11:52 - INFO - calling: 966343737
+2023-06-19 16:11:52 - INFO - Quedan 214 números por llamar.
+2023-06-19 16:12:07 - INFO - calling: 950690272
+2023-06-19 16:12:07 - INFO - Quedan 213 números por llamar.
+2023-06-19 16:12:22 - INFO - calling: 974150837
+2023-06-19 16:12:22 - INFO - Quedan 212 números por llamar.
+2023-06-19 16:12:37 - INFO - calling: 950438607
+2023-06-19 16:12:37 - INFO - Quedan 211 números por llamar.
+2023-06-19 16:12:52 - INFO - calling: 966125711
+2023-06-19 16:12:52 - INFO - Quedan 210 números por llamar.
+2023-06-19 16:13:07 - INFO - calling: 944661962
+2023-06-19 16:13:07 - INFO - Quedan 209 números por llamar.
+2023-06-19 16:13:22 - INFO - calling: 971393113
+2023-06-19 16:13:22 - INFO - Quedan 208 números por llamar.
+2023-06-19 16:13:37 - INFO - calling: 965497095
+2023-06-19 16:13:37 - INFO - Quedan 207 números por llamar.
+2023-06-19 16:13:52 - INFO - calling: 974722943
+2023-06-19 16:13:52 - INFO - Quedan 206 números por llamar.
+2023-06-19 16:14:07 - INFO - calling: 978148400
+2023-06-19 16:14:07 - INFO - Quedan 205 números por llamar.
+2023-06-19 16:14:22 - INFO - calling: 933246077
+2023-06-19 16:14:22 - INFO - Quedan 204 números por llamar.
+2023-06-19 16:14:37 - INFO - calling: 945849654
+2023-06-19 16:14:37 - INFO - Quedan 203 números por llamar.
+2023-06-19 16:14:52 - INFO - calling: 967026819
+2023-06-19 16:14:52 - INFO - Quedan 202 números por llamar.
+2023-06-19 16:15:07 - INFO - calling: 984203330
+2023-06-19 16:15:07 - INFO - Quedan 201 números por llamar.
+2023-06-19 16:15:22 - INFO - calling: 984886309
+2023-06-19 16:15:22 - INFO - Quedan 200 números por llamar.
+2023-06-19 16:15:37 - INFO - calling: 990857403
+2023-06-19 16:15:37 - INFO - Quedan 199 números por llamar.
+2023-06-19 16:15:52 - INFO - calling: 993958310
+2023-06-19 16:15:52 - INFO - Quedan 198 números por llamar.
+2023-06-19 16:16:07 - INFO - calling: 964215630
+2023-06-19 16:16:07 - INFO - Quedan 197 números por llamar.
+2023-06-19 16:16:22 - INFO - calling: 948887071
+2023-06-19 16:16:22 - INFO - Quedan 196 números por llamar.
+2023-06-19 16:16:37 - INFO - calling: 945411994
+2023-06-19 16:16:37 - INFO - Quedan 195 números por llamar.
+2023-06-19 16:16:52 - INFO - calling: 935672755
+2023-06-19 16:16:52 - INFO - Quedan 194 números por llamar.
+2023-06-19 16:17:07 - INFO - calling: 957324323
+2023-06-19 16:17:07 - INFO - Quedan 193 números por llamar.
+2023-06-19 16:17:22 - INFO - calling: 958025197
+2023-06-19 16:17:22 - INFO - Quedan 192 números por llamar.
+2023-06-19 16:17:37 - INFO - calling: 944829901
+2023-06-19 16:17:37 - INFO - Quedan 191 números por llamar.
+2023-06-19 16:17:52 - INFO - calling: 974927979
+2023-06-19 16:17:52 - INFO - Quedan 190 números por llamar.
+2023-06-19 16:18:07 - INFO - calling: 920039487
+2023-06-19 16:18:07 - INFO - Quedan 189 números por llamar.
+2023-06-19 16:18:22 - INFO - calling: 998623512
+2023-06-19 16:18:22 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-19 16:18:32 - INFO - calling: 998623512
+2023-06-19 16:18:32 - INFO - Quedan 188 números por llamar.
+2023-06-19 16:18:47 - INFO - calling: 955154772
+2023-06-19 16:18:47 - INFO - Quedan 187 números por llamar.
+2023-06-19 16:19:02 - INFO - calling: 931443744
+2023-06-19 16:19:02 - INFO - Quedan 186 números por llamar.
+2023-06-19 16:19:17 - INFO - calling: 968156845
+2023-06-19 16:19:17 - INFO - Quedan 185 números por llamar.
+2023-06-19 16:19:32 - INFO - calling: 974284822
+2023-06-19 16:19:32 - INFO - Quedan 184 números por llamar.
+2023-06-19 16:19:47 - INFO - calling: 947161184
+2023-06-19 16:19:47 - INFO - Quedan 183 números por llamar.
+2023-06-19 16:20:02 - INFO - calling: 982363006
+2023-06-19 16:20:02 - INFO - Quedan 182 números por llamar.
+2023-06-19 16:20:17 - INFO - calling: 957437180
+2023-06-19 16:20:17 - INFO - Quedan 181 números por llamar.
+2023-06-19 16:20:32 - INFO - calling: 986636873
+2023-06-19 16:20:32 - INFO - Quedan 180 números por llamar.
+2023-06-19 16:20:47 - INFO - calling: 989833793
+2023-06-19 16:20:47 - INFO - Quedan 179 números por llamar.
+2023-06-19 16:21:02 - INFO - calling: 987661949
+2023-06-19 16:21:02 - INFO - Quedan 178 números por llamar.
+2023-06-19 16:21:17 - INFO - calling: 988938323
+2023-06-19 16:21:17 - INFO - Quedan 177 números por llamar.
+2023-06-19 16:21:32 - INFO - calling: 966230305
+2023-06-19 16:21:32 - INFO - Quedan 176 números por llamar.
+2023-06-19 16:21:47 - INFO - calling: 954539676
+2023-06-19 16:21:47 - INFO - Quedan 175 números por llamar.
+2023-06-19 16:22:02 - INFO - calling: 965368397
+2023-06-19 16:22:02 - INFO - Quedan 174 números por llamar.
+2023-06-19 16:22:17 - INFO - calling: 949019564
+2023-06-19 16:22:17 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-19 16:22:27 - INFO - calling: 949019564
+2023-06-19 16:22:27 - INFO - Quedan 173 números por llamar.
+2023-06-19 16:22:42 - INFO - calling: 991272820
+2023-06-19 16:22:42 - INFO - Quedan 172 números por llamar.
+2023-06-19 16:22:57 - INFO - calling: 941756718
+2023-06-19 16:22:57 - INFO - Quedan 171 números por llamar.
+2023-06-19 16:23:12 - INFO - calling: 947395666
+2023-06-19 16:23:12 - INFO - Quedan 170 números por llamar.
+2023-06-19 16:23:27 - INFO - calling: 988945486
+2023-06-19 16:23:27 - INFO - Quedan 169 números por llamar.
+2023-06-19 16:23:42 - INFO - calling: 933250032
+2023-06-19 16:23:42 - INFO - Quedan 168 números por llamar.
+2023-06-19 16:23:57 - INFO - calling: 986357963
+2023-06-19 16:23:57 - INFO - Quedan 167 números por llamar.
+2023-06-19 16:24:12 - INFO - calling: 979344846
+2023-06-19 16:24:12 - INFO - Quedan 166 números por llamar.
+2023-06-19 16:24:27 - INFO - calling: 935698681
+2023-06-19 16:24:27 - INFO - Quedan 165 números por llamar.
+2023-06-19 16:24:42 - INFO - calling: 935715442
+2023-06-19 16:24:42 - INFO - Quedan 164 números por llamar.
+2023-06-19 16:24:57 - INFO - calling: 964345175
+2023-06-19 16:24:57 - INFO - Quedan 163 números por llamar.
+2023-06-19 16:25:12 - INFO - calling: 985118690
+2023-06-19 16:25:12 - INFO - Quedan 162 números por llamar.
+2023-06-19 16:25:27 - INFO - calling: 948936877
+2023-06-19 16:25:27 - INFO - Quedan 161 números por llamar.
+2023-06-19 16:25:42 - INFO - calling: 954172461
+2023-06-19 16:25:42 - INFO - Quedan 160 números por llamar.
+2023-06-19 16:25:57 - INFO - calling: 935645705
+2023-06-19 16:25:57 - INFO - Quedan 159 números por llamar.
+2023-06-19 16:26:12 - INFO - calling: 982116747
+2023-06-19 16:26:12 - INFO - Quedan 158 números por llamar.
+2023-06-19 16:26:27 - INFO - calling: 978035336
+2023-06-19 16:26:27 - INFO - Quedan 157 números por llamar.
+2023-06-19 16:26:42 - INFO - calling: 964989414
+2023-06-19 16:26:42 - INFO - Quedan 156 números por llamar.
+2023-06-19 16:26:57 - INFO - calling: 996759476
+2023-06-19 16:26:57 - INFO - Quedan 155 números por llamar.
+2023-06-19 16:27:12 - INFO - calling: 982471149
+2023-06-19 16:27:12 - INFO - Quedan 154 números por llamar.
+2023-06-19 16:27:27 - INFO - calling: 946613733
+2023-06-19 16:27:27 - INFO - Quedan 153 números por llamar.
+2023-06-19 16:27:42 - INFO - calling: 954924920
+2023-06-19 16:27:42 - INFO - Quedan 152 números por llamar.
+2023-06-19 16:27:57 - INFO - calling: 999223387
+2023-06-19 16:27:57 - INFO - Quedan 151 números por llamar.
+2023-06-19 16:28:12 - INFO - calling: 935338762
+2023-06-19 16:28:12 - INFO - Quedan 150 números por llamar.
+2023-06-19 16:28:27 - INFO - calling: 958537748
+2023-06-19 16:28:27 - INFO - Quedan 149 números por llamar.
+2023-06-19 16:28:43 - INFO - calling: 946164618
+2023-06-19 16:28:43 - INFO - Quedan 148 números por llamar.
+2023-06-19 16:28:58 - INFO - calling: 986860970
+2023-06-19 16:28:58 - INFO - Quedan 147 números por llamar.
+2023-06-19 16:29:13 - INFO - calling: 965849020
+2023-06-19 16:29:13 - INFO - Quedan 146 números por llamar.
+2023-06-19 16:29:28 - INFO - calling: 932708281
+2023-06-19 16:29:28 - INFO - Quedan 145 números por llamar.
+2023-06-19 16:29:43 - INFO - calling: 987521672
+2023-06-19 16:29:43 - INFO - Quedan 144 números por llamar.
+2023-06-19 16:29:58 - INFO - calling: 933879132
+2023-06-19 16:29:58 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-19 16:30:08 - INFO - calling: 933879132
+2023-06-19 16:30:08 - INFO - Quedan 143 números por llamar.
+2023-06-19 16:30:23 - INFO - calling: 993199134
+2023-06-19 16:30:23 - INFO - Quedan 142 números por llamar.
+2023-06-19 16:30:38 - INFO - calling: 973845322
+2023-06-19 16:30:38 - INFO - Quedan 141 números por llamar.
+2023-06-19 16:30:53 - INFO - calling: 934876821
+2023-06-19 16:30:53 - INFO - Quedan 140 números por llamar.
+2023-06-19 16:31:08 - INFO - calling: 949051274
+2023-06-19 16:31:08 - INFO - Quedan 139 números por llamar.
+2023-06-19 16:31:23 - INFO - calling: 977091228
+2023-06-19 16:31:23 - INFO - Quedan 138 números por llamar.
+2023-06-19 16:31:38 - INFO - calling: 998308189
+2023-06-19 16:31:38 - INFO - Quedan 137 números por llamar.
+2023-06-19 16:31:53 - INFO - calling: 965853845
+2023-06-19 16:31:53 - INFO - Quedan 136 números por llamar.
+2023-06-19 16:32:08 - INFO - calling: 981592817
+2023-06-19 16:32:08 - INFO - Quedan 135 números por llamar.
+2023-06-19 16:32:23 - INFO - calling: 931977890
+2023-06-19 16:32:23 - INFO - Quedan 134 números por llamar.
+2023-06-19 16:32:38 - INFO - calling: 944141154
+2023-06-19 16:32:38 - INFO - Quedan 133 números por llamar.
+2023-06-19 16:32:53 - INFO - calling: 920933053
+2023-06-19 16:32:53 - INFO - Quedan 132 números por llamar.
+2023-06-19 16:33:08 - INFO - calling: 967513551
+2023-06-19 16:33:08 - INFO - Quedan 131 números por llamar.
+2023-06-19 16:33:23 - INFO - calling: 962611534
+2023-06-19 16:33:23 - INFO - Quedan 130 números por llamar.
+2023-06-19 16:33:38 - INFO - calling: 939030442
+2023-06-19 16:33:38 - INFO - Quedan 129 números por llamar.
+2023-06-19 16:33:53 - INFO - calling: 930220462
+2023-06-19 16:33:53 - INFO - Quedan 128 números por llamar.
+2023-06-19 16:34:08 - INFO - calling: 982338909
+2023-06-19 16:34:08 - INFO - Quedan 127 números por llamar.
+2023-06-19 16:34:23 - INFO - calling: 984977241
+2023-06-19 16:34:23 - INFO - Quedan 126 números por llamar.
+2023-06-19 16:34:38 - INFO - calling: 993951991
+2023-06-19 16:34:38 - INFO - Quedan 125 números por llamar.
+2023-06-19 16:34:53 - INFO - calling: 950227997
+2023-06-19 16:34:53 - INFO - Quedan 124 números por llamar.
+2023-06-19 16:35:08 - INFO - calling: 933532733
+2023-06-19 16:35:08 - INFO - Quedan 123 números por llamar.
+2023-06-19 16:35:23 - INFO - calling: 982177216
+2023-06-19 16:35:23 - INFO - Quedan 122 números por llamar.
+2023-06-19 16:35:38 - INFO - calling: 952030664
+2023-06-19 16:35:38 - INFO - Quedan 121 números por llamar.
+2023-06-19 16:35:53 - INFO - calling: 954715727
+2023-06-19 16:35:53 - INFO - Quedan 120 números por llamar.
+2023-06-19 16:36:08 - INFO - calling: 934456964
+2023-06-19 16:36:08 - INFO - Quedan 119 números por llamar.
+2023-06-19 16:36:23 - INFO - calling: 997948729
+2023-06-19 16:36:23 - INFO - Quedan 118 números por llamar.
+2023-06-19 16:36:38 - INFO - calling: 950850191
+2023-06-19 16:36:38 - INFO - Quedan 117 números por llamar.
+2023-06-19 16:36:53 - INFO - calling: 975508903
+2023-06-19 16:36:53 - INFO - Quedan 116 números por llamar.
+2023-06-19 16:37:08 - INFO - calling: 963415394
+2023-06-19 16:37:08 - INFO - Quedan 115 números por llamar.
+2023-06-19 16:37:23 - INFO - calling: 949245285
+2023-06-19 16:37:23 - INFO - Quedan 114 números por llamar.
+2023-06-19 16:37:38 - INFO - calling: 920356421
+2023-06-19 16:37:38 - INFO - Quedan 113 números por llamar.
+2023-06-19 16:37:53 - INFO - calling: 995185074
+2023-06-19 16:37:53 - INFO - Quedan 112 números por llamar.
+2023-06-19 16:38:08 - INFO - calling: 954518338
+2023-06-19 16:38:08 - INFO - Quedan 111 números por llamar.
+2023-06-19 16:38:23 - INFO - calling: 941343694
+2023-06-19 16:38:23 - INFO - Quedan 110 números por llamar.
+2023-06-19 16:38:38 - INFO - calling: 945560438
+2023-06-19 16:38:38 - INFO - Quedan 109 números por llamar.
+2023-06-19 16:38:53 - INFO - calling: 931101222
+2023-06-19 16:38:53 - INFO - Quedan 108 números por llamar.
+2023-06-19 16:39:08 - INFO - calling: 957906381
+2023-06-19 16:39:08 - INFO - Quedan 107 números por llamar.
+2023-06-19 16:39:23 - INFO - calling: 962690616
+2023-06-19 16:39:23 - INFO - Quedan 106 números por llamar.
+2023-06-19 16:39:38 - INFO - calling: 974962265
+2023-06-19 16:39:38 - INFO - Quedan 105 números por llamar.
+2023-06-19 16:39:53 - INFO - calling: 966357874
+2023-06-19 16:39:53 - INFO - Quedan 104 números por llamar.
+2023-06-19 16:40:08 - INFO - calling: 974403523
+2023-06-19 16:40:08 - INFO - Quedan 103 números por llamar.
+2023-06-19 16:40:23 - INFO - calling: 975591484
+2023-06-19 16:40:23 - INFO - Quedan 102 números por llamar.
+2023-06-19 16:40:38 - INFO - calling: 954190816
+2023-06-19 16:40:38 - INFO - Quedan 101 números por llamar.
+2023-06-19 16:40:53 - INFO - calling: 932446181
+2023-06-19 16:40:53 - INFO - Quedan 100 números por llamar.
+2023-06-19 16:41:08 - INFO - calling: 974864098
+2023-06-19 16:41:08 - INFO - Quedan 99 números por llamar.
+2023-06-19 16:41:23 - INFO - calling: 955296123
+2023-06-19 16:41:23 - INFO - Quedan 98 números por llamar.
+2023-06-19 16:41:38 - INFO - calling: 996121783
+2023-06-19 16:41:38 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-19 16:41:48 - INFO - calling: 996121783
+2023-06-19 16:41:48 - INFO - Quedan 97 números por llamar.
+2023-06-19 16:42:03 - INFO - calling: 945209739
+2023-06-19 16:42:03 - INFO - Quedan 96 números por llamar.
+2023-06-19 16:42:18 - INFO - calling: 933177688
+2023-06-19 16:42:18 - INFO - Quedan 95 números por llamar.
+2023-06-19 16:42:33 - INFO - calling: 986303983
+2023-06-19 16:42:33 - INFO - Quedan 94 números por llamar.
+2023-06-19 16:42:48 - INFO - calling: 939064731
+2023-06-19 16:42:48 - INFO - Quedan 93 números por llamar.
+2023-06-19 16:43:03 - INFO - calling: 983720286
+2023-06-19 16:43:03 - INFO - Quedan 92 números por llamar.
+2023-06-19 16:43:18 - INFO - calling: 931261899
+2023-06-19 16:43:18 - INFO - Quedan 91 números por llamar.
+2023-06-19 16:43:33 - INFO - calling: 978205274
+2023-06-19 16:43:33 - INFO - Quedan 90 números por llamar.
+2023-06-19 16:43:48 - INFO - calling: 990391872
+2023-06-19 16:43:48 - INFO - Quedan 89 números por llamar.
+2023-06-19 16:44:03 - INFO - calling: 963888527
+2023-06-19 16:44:03 - INFO - Quedan 88 números por llamar.
+2023-06-19 16:44:18 - INFO - calling: 982017682
+2023-06-19 16:44:18 - INFO - Quedan 87 números por llamar.
+2023-06-19 16:44:33 - INFO - calling: 995152902
+2023-06-19 16:44:33 - INFO - Quedan 86 números por llamar.
+2023-06-19 16:44:48 - INFO - calling: 935157127
+2023-06-19 16:44:48 - INFO - Quedan 85 números por llamar.
+2023-06-19 16:45:03 - INFO - calling: 930325218
+2023-06-19 16:45:03 - INFO - Quedan 84 números por llamar.
+2023-06-19 16:45:18 - INFO - calling: 920245180
+2023-06-19 16:45:18 - INFO - Quedan 83 números por llamar.
+2023-06-19 16:45:33 - INFO - calling: 971025522
+2023-06-19 16:45:33 - INFO - Quedan 82 números por llamar.
+2023-06-19 16:45:48 - INFO - calling: 971702933
+2023-06-19 16:45:48 - INFO - Quedan 81 números por llamar.
+2023-06-19 16:46:03 - INFO - calling: 930547041
+2023-06-19 16:46:03 - INFO - Quedan 80 números por llamar.
+2023-06-19 16:46:18 - INFO - calling: 937078136
+2023-06-19 16:46:18 - INFO - Quedan 79 números por llamar.
+2023-06-19 16:46:33 - INFO - calling: 968764455
+2023-06-19 16:46:33 - INFO - Quedan 78 números por llamar.
+2023-06-19 16:46:48 - INFO - calling: 973296654
+2023-06-19 16:46:48 - INFO - Quedan 77 números por llamar.
+2023-06-19 16:47:03 - INFO - calling: 938950570
+2023-06-19 16:47:03 - INFO - Quedan 76 números por llamar.
+2023-06-19 16:47:18 - INFO - calling: 938838244
+2023-06-19 16:47:18 - INFO - Quedan 75 números por llamar.
+2023-06-19 16:47:33 - INFO - calling: 945229950
+2023-06-19 16:47:33 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-19 16:47:44 - INFO - calling: 945229950
+2023-06-19 16:47:44 - INFO - Quedan 74 números por llamar.
+2023-06-19 16:47:59 - INFO - calling: 994261041
+2023-06-19 16:47:59 - INFO - Quedan 73 números por llamar.
+2023-06-19 16:48:14 - INFO - calling: 959964527
+2023-06-19 16:48:14 - INFO - Quedan 72 números por llamar.
+2023-06-19 16:48:29 - INFO - calling: 941210066
+2023-06-19 16:48:29 - INFO - Quedan 71 números por llamar.
+2023-06-19 16:48:44 - INFO - calling: 989917177
+2023-06-19 16:48:44 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-19 16:48:54 - INFO - calling: 989917177
+2023-06-19 16:48:54 - INFO - Quedan 70 números por llamar.
+2023-06-19 16:49:09 - INFO - calling: 964420554
+2023-06-19 16:49:09 - INFO - Quedan 69 números por llamar.
+2023-06-19 16:49:24 - INFO - calling: 950226995
+2023-06-19 16:49:24 - INFO - Quedan 68 números por llamar.
+2023-06-19 16:49:39 - INFO - calling: 994631750
+2023-06-19 16:49:39 - INFO - Quedan 67 números por llamar.
+2023-06-19 16:49:54 - INFO - calling: 977730989
+2023-06-19 16:49:54 - INFO - Quedan 66 números por llamar.
+2023-06-19 16:50:09 - INFO - calling: 987861159
+2023-06-19 16:50:09 - INFO - Quedan 65 números por llamar.
+2023-06-19 16:50:24 - INFO - calling: 965625824
+2023-06-19 16:50:24 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-19 16:50:34 - INFO - calling: 965625824
+2023-06-19 16:50:34 - INFO - Quedan 64 números por llamar.
+2023-06-19 16:50:49 - INFO - calling: 984473063
+2023-06-19 16:50:49 - INFO - Quedan 63 números por llamar.
+2023-06-19 16:51:04 - INFO - calling: 972641533
+2023-06-19 16:51:04 - INFO - Quedan 62 números por llamar.
+2023-06-19 16:51:19 - INFO - calling: 991515103
+2023-06-19 16:51:19 - INFO - Quedan 61 números por llamar.
+2023-06-19 16:51:34 - INFO - calling: 979846749
+2023-06-19 16:51:34 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-19 16:51:44 - INFO - calling: 979846749
+2023-06-19 16:51:44 - INFO - Quedan 60 números por llamar.
+2023-06-19 16:51:59 - INFO - calling: 945761970
+2023-06-19 16:51:59 - INFO - Quedan 59 números por llamar.
+2023-06-19 16:52:14 - INFO - calling: 996482093
+2023-06-19 16:52:14 - INFO - Quedan 58 números por llamar.
+2023-06-19 16:52:29 - INFO - calling: 946302771
+2023-06-19 16:52:29 - INFO - Quedan 57 números por llamar.
+2023-06-19 16:52:44 - INFO - calling: 979340183
+2023-06-19 16:52:44 - INFO - Quedan 56 números por llamar.
+2023-06-19 16:52:59 - INFO - calling: 954739457
+2023-06-19 16:52:59 - INFO - Quedan 55 números por llamar.
+2023-06-19 16:53:14 - INFO - calling: 954309836
+2023-06-19 16:53:14 - INFO - Quedan 54 números por llamar.
+2023-06-19 16:53:29 - INFO - calling: 930487687
+2023-06-19 16:53:29 - INFO - Quedan 53 números por llamar.
+2023-06-19 16:53:44 - INFO - calling: 963981454
+2023-06-19 16:53:44 - INFO - Quedan 52 números por llamar.
+2023-06-19 16:53:59 - INFO - calling: 979469158
+2023-06-19 16:53:59 - INFO - Quedan 51 números por llamar.
+2023-06-19 16:54:14 - INFO - calling: 937326758
+2023-06-19 16:54:14 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-19 16:54:24 - INFO - calling: 937326758
+2023-06-19 16:54:24 - INFO - Quedan 50 números por llamar.
+2023-06-19 16:54:39 - INFO - calling: 948634068
+2023-06-19 16:54:39 - INFO - Quedan 49 números por llamar.
+2023-06-19 16:54:54 - INFO - calling: 942775857
+2023-06-19 16:54:54 - INFO - Quedan 48 números por llamar.
+2023-06-19 16:55:09 - INFO - calling: 943494231
+2023-06-19 16:55:09 - INFO - Quedan 47 números por llamar.
+2023-06-19 16:55:24 - INFO - calling: 923721019
+2023-06-19 16:55:24 - INFO - Quedan 46 números por llamar.
+2023-06-19 16:55:39 - INFO - calling: 988994632
+2023-06-19 16:55:39 - INFO - Quedan 45 números por llamar.
+2023-06-19 16:55:54 - INFO - calling: 966684554
+2023-06-19 16:55:54 - INFO - Quedan 44 números por llamar.
+2023-06-19 16:56:09 - INFO - calling: 975704738
+2023-06-19 16:56:09 - INFO - Quedan 43 números por llamar.
+2023-06-19 16:56:24 - INFO - calling: 935618737
+2023-06-19 16:56:24 - INFO - Quedan 42 números por llamar.
+2023-06-19 16:56:39 - INFO - calling: 958482987
+2023-06-19 16:56:39 - ERROR - Error: [Errno 104] Connection reset by peer
+2023-06-19 16:56:49 - INFO - calling: 958482987
+2023-06-19 16:56:49 - INFO - Quedan 41 números por llamar.
+2023-06-19 16:57:04 - INFO - calling: 962425513
+2023-06-19 16:57:04 - INFO - Quedan 40 números por llamar.
+2023-06-19 16:57:19 - INFO - calling: 967369521
+2023-06-19 16:57:19 - INFO - Quedan 39 números por llamar.
+2023-06-19 16:57:34 - INFO - calling: 990804218
+2023-06-19 16:57:34 - INFO - Quedan 38 números por llamar.
+2023-06-19 16:57:49 - INFO - calling: 936953615
+2023-06-19 16:57:49 - INFO - Quedan 37 números por llamar.
+2023-06-19 16:58:04 - INFO - calling: 981545667
+2023-06-19 16:58:04 - INFO - Quedan 36 números por llamar.
+2023-06-19 16:58:19 - INFO - calling: 977280339
+2023-06-19 16:58:19 - INFO - Quedan 35 números por llamar.
+2023-06-19 16:58:34 - INFO - calling: 957029389
+2023-06-19 16:58:34 - INFO - Quedan 34 números por llamar.
+2023-06-19 16:58:49 - INFO - calling: 920867559
+2023-06-19 16:58:49 - INFO - Quedan 33 números por llamar.
+2023-06-19 16:59:04 - INFO - calling: 935209205
+2023-06-19 16:59:04 - INFO - Quedan 32 números por llamar.
+2023-06-19 16:59:19 - INFO - calling: 955369375
+2023-06-19 16:59:19 - INFO - Quedan 31 números por llamar.
+2023-06-19 16:59:34 - INFO - calling: 957292035
+2023-06-19 16:59:34 - INFO - Quedan 30 números por llamar.
+2023-06-19 16:59:49 - INFO - calling: 963724228
+2023-06-19 16:59:49 - INFO - Quedan 29 números por llamar.
+2023-06-19 17:00:04 - INFO - calling: 942507608
+2023-06-19 17:00:04 - INFO - Quedan 28 números por llamar.
+2023-06-19 17:00:19 - INFO - calling: 958538706
+2023-06-19 17:00:19 - INFO - Quedan 27 números por llamar.
+2023-06-19 17:00:34 - INFO - calling: 963148910
+2023-06-19 17:00:34 - INFO - Quedan 26 números por llamar.
+2023-06-19 17:00:49 - INFO - calling: 935813620
+2023-06-19 17:00:49 - INFO - Quedan 25 números por llamar.
+2023-06-19 17:01:04 - INFO - calling: 949162338
+2023-06-19 17:01:04 - INFO - Quedan 24 números por llamar.
+2023-06-19 17:01:19 - INFO - calling: 949628689
+2023-06-19 17:01:19 - INFO - Quedan 23 números por llamar.
+2023-06-19 17:01:34 - INFO - calling: 950949695
+2023-06-19 17:01:34 - INFO - Quedan 22 números por llamar.
+2023-06-19 17:01:49 - INFO - calling: 966292341
+2023-06-19 17:01:49 - INFO - Quedan 21 números por llamar.
+2023-06-19 17:02:04 - INFO - calling: 994252712
+2023-06-19 17:02:04 - INFO - Quedan 20 números por llamar.
+2023-06-19 17:02:19 - INFO - calling: 937569439
+2023-06-19 17:02:19 - INFO - Quedan 19 números por llamar.
+2023-06-19 17:02:34 - INFO - calling: 935384901
+2023-06-19 17:02:34 - INFO - Quedan 18 números por llamar.
+2023-06-19 17:02:49 - INFO - calling: 933058639
+2023-06-19 17:02:49 - INFO - Quedan 17 números por llamar.
+2023-06-19 17:03:04 - INFO - calling: 990809323
+2023-06-19 17:03:04 - INFO - Quedan 16 números por llamar.
+2023-06-19 17:03:19 - INFO - calling: 971393111
+2023-06-19 17:03:19 - INFO - Quedan 15 números por llamar.
+2023-06-19 17:03:34 - INFO - calling: 936846164
+2023-06-19 17:03:34 - INFO - Quedan 14 números por llamar.
+2023-06-19 17:03:49 - INFO - calling: 973686997
+2023-06-19 17:03:49 - INFO - Quedan 13 números por llamar.
+2023-06-19 17:04:04 - INFO - calling: 954021549
+2023-06-19 17:04:04 - INFO - Quedan 12 números por llamar.
+2023-06-19 17:04:19 - INFO - calling: 965033637
+2023-06-19 17:04:19 - INFO - Quedan 11 números por llamar.
+2023-06-19 17:04:34 - INFO - calling: 997191295
+2023-06-19 17:04:34 - INFO - Quedan 10 números por llamar.
+2023-06-19 17:04:49 - INFO - calling: 920980794
+2023-06-19 17:04:49 - INFO - Quedan 9 números por llamar.
+2023-06-19 17:05:04 - INFO - calling: 976723939
+2023-06-19 17:05:04 - INFO - Quedan 8 números por llamar.
+2023-06-19 17:05:19 - INFO - calling: 936001789
+2023-06-19 17:05:19 - INFO - Quedan 7 números por llamar.
+2023-06-19 17:05:34 - INFO - calling: 989364495
+2023-06-19 17:05:34 - INFO - Quedan 6 números por llamar.
+2023-06-19 17:05:50 - INFO - calling: 991539697
+2023-06-19 17:05:50 - INFO - Quedan 5 números por llamar.
+2023-06-19 17:06:05 - INFO - calling: 997787940
+2023-06-19 17:06:05 - INFO - Quedan 4 números por llamar.
+2023-06-19 17:06:20 - INFO - calling: 940994454
+2023-06-19 17:06:20 - INFO - Quedan 3 números por llamar.
+2023-06-19 17:06:35 - INFO - calling: 979504875
+2023-06-19 17:06:35 - INFO - Quedan 2 números por llamar.
+2023-06-19 17:06:50 - INFO - calling: 941092704
+2023-06-19 17:06:50 - INFO - Quedan 1 números por llamar.
+2023-06-19 17:07:05 - INFO - calling: 998220958
+2023-06-19 17:07:05 - INFO - Quedan 0 números por llamar.
+2023-11-03 18:30:54 - INFO - cantidad de numeros:302
+2023-11-03 18:30:54 - INFO - calling: 936635397
+2023-11-03 18:30:54 - INFO - Quedan 301 números por llamar.
+2023-11-03 18:31:09 - INFO - calling: 946510139
+2023-11-03 18:31:09 - ERROR - Error: [Errno 9] Bad file descriptor
+2023-11-03 18:31:36 - INFO - cantidad de numeros:302
+2023-11-03 18:31:36 - INFO - calling: 930782857
+2023-11-03 18:31:36 - INFO - Quedan 301 números por llamar.
+2023-11-03 18:31:51 - INFO - calling: 954390035
+2023-11-03 18:31:51 - INFO - Quedan 300 números por llamar.

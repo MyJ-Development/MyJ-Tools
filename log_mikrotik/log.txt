@@ -1,0 +1,59 @@
+2023-06-04 22:40:15 - INFO - UDP server up and listening
+2023-06-04 22:40:24 - INFO - 2 Cantidad de pppoe insertados correctamente en DB local: 
+2023-06-04 22:40:26 - INFO - 2 Cantidad de pppoe insertados correctamente en DB local: 
+2023-06-04 22:41:04 - INFO - 2 Cantidad de pppoe insertados correctamente en DB local: 
+2023-06-04 22:41:04 - INFO - 2 Cantidad de pppoe insertados correctamente en DB local: 
+2023-06-06 14:20:43 - INFO - UDP server up and listening
+2023-06-06 14:21:18 - INFO - 2 Cantidad de pppoe insertados correctamente en DB local: 
+2023-06-06 14:21:18 - INFO - 2 Cantidad de pppoe insertados correctamente en DB local: 
+2023-06-06 14:21:21 - INFO - 2 Cantidad de pppoe insertados correctamente en DB local: 
+2023-06-06 14:21:25 - INFO - 2 Cantidad de pppoe insertados correctamente en DB local: 
+2023-06-06 14:21:25 - INFO - 2 Cantidad de pppoe insertados correctamente en DB local: 
+2023-06-06 14:21:26 - INFO - 2 Cantidad de pppoe insertados correctamente en DB local: 
+2023-06-06 14:22:02 - INFO - UDP server up and listening
+2023-06-06 14:22:05 - INFO - jazminduran
+2023-06-06 14:22:05 - INFO - anacolinas
+2023-06-06 14:22:06 - INFO - anacolinas
+2023-06-06 14:22:06 - INFO - rodrigolunac
+2023-06-06 14:22:07 - INFO - alvarovillalonm
+2023-06-06 14:22:07 - INFO - alvarovillalonm
+2023-06-06 14:22:12 - INFO - alexmolinezf
+2023-06-06 14:22:12 - INFO - alexguzmanm
+2023-06-06 14:22:13 - INFO - aliciajapanc
+2023-06-06 14:22:13 - INFO - alexrojast
+2023-06-06 14:22:13 - INFO - alexisayala
+2023-06-06 14:22:15 - INFO - alexgonzalezm
+2023-06-06 14:22:15 - INFO - aliciamartinezc
+2023-06-06 14:22:15 - INFO - alonsomunozp
+2023-06-06 14:22:15 - INFO - amandapastenl
+2023-06-06 14:22:17 - INFO - alexisivor
+2023-06-06 14:22:17 - INFO - alvarocerdaf
+2023-06-06 14:22:17 - INFO - anaaguileram
+2023-06-06 14:22:17 - INFO - alysondenisses
+2023-06-06 14:22:19 - INFO - amaliacorvalanb
+2023-06-06 14:22:19 - INFO - aliciamadridm
+2023-06-06 14:22:19 - INFO - americofernando
+2023-06-06 14:22:20 - INFO - alvarovillalonm
+2023-06-06 14:22:21 - INFO - alexisivor
+2023-06-06 14:22:21 - INFO - aliciajapanc
+2023-06-06 14:22:21 - INFO - alonsomunozp
+2023-06-06 14:22:21 - INFO - alexgonzalezm
+2023-06-06 14:22:21 - INFO - aliciamartinezc
+2023-06-06 14:22:21 - INFO - aliciamartinezc
+2023-06-06 14:22:21 - INFO - aliciamartinezc
+2023-06-06 14:22:21 - INFO - aliciamartinezc
+2023-06-06 14:22:21 - INFO - amandapastenl
+2023-06-06 14:22:21 - INFO - americofernando
+2023-06-06 14:22:22 - INFO - alvarocerdaf
+2023-06-06 14:22:22 - INFO - alexmolinezf
+2023-06-06 14:22:23 - INFO - amaliacorvalanb
+2023-06-06 14:22:24 - INFO - alysondenisses
+2023-06-06 14:22:24 - INFO - anaaguileram
+2023-06-06 14:22:25 - INFO - aliciamadridm
+2023-06-06 14:22:52 - INFO - rodrigolunac
+2023-06-06 14:23:02 - INFO - alvarovillalonm
+2023-06-06 14:23:06 - INFO - jazminduran
+2023-06-06 14:23:06 - INFO - danielbravo
+2023-06-06 14:23:11 - INFO - jazminduran
+2023-06-06 14:23:22 - INFO - gladysramirezb
+2023-06-06 14:32:14 - INFO - UDP server up and listening

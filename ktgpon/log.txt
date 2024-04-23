@@ -1,0 +1,2 @@
+2023-05-31 20:33:15 - INFO - Conectado a OLT: 172.16.50.126
+2023-05-31 20:34:16 - INFO - 157 Cantidad de pppoe insertados correctamente en DB local: 
